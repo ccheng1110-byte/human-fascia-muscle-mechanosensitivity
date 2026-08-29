@@ -1,0 +1,5 @@
+"module","candidate_genes","supported_genes","support_fraction","median_target_minus_other_mean","supported_gene_names"
+"hippo_yap_taz",2,2,1,0.0343820862204195,"TEAD1;NF2"
+"integrin_focal_adhesion",6,5,0.833333333333333,0.181098037542653,"ITGB1;ITGAV;FERMT2;PARVA;ITGA2"
+"mechanosensor_channels",3,2,0.666666666666667,0.047474920670461,"PIEZO2;TMEM63B"
+"actomyosin_rho",4,2,0.5,0.00280241343552956,"LIMK1;CDC42"

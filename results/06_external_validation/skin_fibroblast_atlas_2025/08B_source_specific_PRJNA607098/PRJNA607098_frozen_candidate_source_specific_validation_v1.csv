@@ -1,0 +1,16 @@
+"gene","module","step06_candidate_tier","myofib_percent_cells_expressing","minimum_difference_over_all_donors_and_identities","GSE","F7_cells","comparison_states","F7_mean_expression","median_other_state_mean_expression","F7_minus_median_other_state_mean","F7_minus_best_other_state_mean","F7_percent_cells_expressing","median_other_state_percent_expressing","F7_minus_median_other_state_percent_expressing","F7_highest_mean_across_states","source_specific_descriptive_support"
+"CDC42","actomyosin_rho","B_partial_support",86.5829145728643,0.109464210455107,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"CFL1","actomyosin_rho","A_consistent_DD_myofib_enrichment",96.8090452261306,0.42326042743637,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"CNN2","actomyosin_rho","A_consistent_DD_myofib_enrichment",47.0854271356784,0.125354290794189,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"FERMT2","integrin_focal_adhesion","B_partial_support",59.4472361809045,0.00709043083923788,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"ITGA2","integrin_focal_adhesion","B_partial_support",6.03015075376884,0.870189757035104,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"ITGA5","integrin_focal_adhesion","A_consistent_DD_myofib_enrichment",47.8894472361809,0.513891866574166,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"ITGAV","integrin_focal_adhesion","A_consistent_DD_myofib_enrichment",75,1.3176149685599,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"ITGB1","integrin_focal_adhesion","A_consistent_DD_myofib_enrichment",98.0150753768844,1.00177507415588,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"LIMK1","actomyosin_rho","A_consistent_DD_myofib_enrichment",22.6884422110553,0.234822390927329,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"NF2","hippo_yap_taz","A_consistent_DD_myofib_enrichment",24.5226130653266,0.533221082259383,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"PANX1","mechanosensor_channels","B_partial_support",12.2361809045226,0.129370989723882,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"PARVA","integrin_focal_adhesion","A_consistent_DD_myofib_enrichment",63.0904522613065,0.655039327906664,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"PIEZO2","mechanosensor_channels","A_consistent_DD_myofib_enrichment",26.9849246231156,0.727994081495894,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"TEAD1","hippo_yap_taz","B_partial_support",25.9045226130653,0.0879163468683197,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
+"TMEM63B","mechanosensor_channels","A_consistent_DD_myofib_enrichment",17.5376884422111,0.225123747737889,"PRJNA607098",0,9,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE

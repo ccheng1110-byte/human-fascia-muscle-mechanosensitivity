@@ -1,0 +1,7 @@
+"label_system","label","interpretation","observed_in_local_outputs","mapping_status"
+"Nature article","F6: inflammatory myofibroblast","paper disease-specific inflammatory myofibroblast state",FALSE,"requires_object-level confirmation"
+"Nature article","F7: myofibroblast","paper disease-specific myofibroblast state",FALSE,"requires_object-level confirmation"
+"Nature article","F8: fascia-like myofibroblast","paper fascia-like state; official paper nomenclature",FALSE,"official_paper_label"
+"Step 08B3 atlas celltype","F7: Fascia-like myofibroblast","label used in the current source-specific F7 analysis",TRUE,"confirmed_in_step08B3_output"
+"Step 08B2 atlas celltype_skinspecific_nomenclature","Myofibroblast","auxiliary skin-specific label used in Step 08B2",TRUE,"confirmed_in_step08B2_output"
+"Step 08B2 available cell-state inventory","Fascia","available state label in the corrected local inventory",TRUE,"confirmed_in_step08B2_output"

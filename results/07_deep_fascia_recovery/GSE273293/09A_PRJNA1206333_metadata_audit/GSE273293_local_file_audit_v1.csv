@@ -1,0 +1,4 @@
+"file_role","path","exists","size_bytes","md5"
+"GEO supplementary tar","./data/raw/GSE273293/GSE273293_RAW.tar",TRUE,3164160,"8e986eefff94091d9c39df444309d726"
+"GEO series-matrix sample metadata","./data/metadata/GSE273293/GSE273293_series_matrix_sample_metadata_01.csv",TRUE,4361,"91776be39ae5633f25037d6dea51f732"
+"GEO parsed series-matrix object","./data/processed/GSE273293/GSE273293_series_matrix_01.rds",TRUE,3939,"af616da51e3344cdaa4bb7f908c3f9d4"

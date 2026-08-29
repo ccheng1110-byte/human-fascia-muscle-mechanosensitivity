@@ -1,0 +1,10 @@
+"module","role","genes_frozen","genes_present","genes_detected","present_fraction","detected_fraction"
+"actomyosin_rho","primary",20,20,20,1,1
+"cell_cycle","competitor",18,18,18,1,1
+"ecm_remodeling","competitor",23,23,23,1,1
+"hippo_yap_taz","primary",19,18,18,0.947368421052632,0.947368421052632
+"hypoxia","competitor",18,18,18,1,1
+"inflammation_ap1_nfkb","competitor",21,21,21,1,1
+"integrin_focal_adhesion","primary",23,23,23,1,1
+"mechanosensor_channels","primary",20,20,20,1,1
+"tgf_fibrosis","competitor",20,20,20,1,1

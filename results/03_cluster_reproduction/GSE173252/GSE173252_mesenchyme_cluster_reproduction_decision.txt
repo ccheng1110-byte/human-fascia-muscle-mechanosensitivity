@@ -1,0 +1,32 @@
+GSE173252 mesenchyme cluster reproduction
+Generated: 2026-08-23 21:46:48 CST
+
+Conclusion
+The four published coarse mesenchymal identities were reproduced without rerunning clustering.
+The mapping is supported independently by the stored ordered_clusters field and canonical/published anchor-marker expression.
+
+Identity mapping
+- Seurat cluster 0 -> paper cluster 3 -> FB (anchor PDGFRA; singlet cells = 7715)
+- Seurat cluster 1 -> paper cluster 4 -> Myofib (anchor PDPN; singlet cells = 3980)
+- Seurat cluster 2 -> paper cluster 1 -> VSMC (anchor MYH11; singlet cells = 3547)
+- Seurat cluster 3 -> paper cluster 2 -> Pericyte (anchor RGS5; singlet cells = 1420)
+
+Primary analysis set
+- Singlets retained: 16662
+- Predicted doublets excluded: 326
+
+Sample-aware pseudobulk coverage
+A target cluster required >= 20 cells per sample and the remaining clusters >= 50 cells.
+- Cluster 0 (FB): 9 evaluable sample(s): Dermis1;Dermis2;Dermis3;SF1;SF2;SF3;DD1;DD2;DD3
+- Cluster 1 (Myofib): 3 evaluable sample(s): DD1;DD2;DD3
+- Cluster 2 (VSMC): 9 evaluable sample(s): Dermis1;Dermis2;Dermis3;SF1;SF2;SF3;DD1;DD2;DD3
+- Cluster 3 (Pericyte): 8 evaluable sample(s): Dermis1;Dermis2;Dermis3;SF1;SF2;DD1;DD2;DD3
+
+Interpretation limits
+- Pseudobulk log2-CPM differences compare each cluster with the other mesenchymal clusters within the same donor/sample.
+- The Wilcoxon p values and BH FDR values are exploratory because only nine samples are available and the design is unbalanced.
+- These outputs prioritize robust candidate markers; they are not a replacement for a formal edgeR/DESeq2 differential-expression model.
+- Cluster abundance differs strongly by disease state, especially for the Myofib population; marker specificity and disease association must remain separate claims.
+
+Source
+Original study DOI: 10.1016/j.jid.2021.05.030

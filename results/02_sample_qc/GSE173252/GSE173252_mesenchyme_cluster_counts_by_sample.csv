@@ -1,0 +1,10 @@
+"orig.ident","gsm_id","sample_group","expected_source","expected_condition","reported_replicate","cluster_0_n","cluster_1_n","cluster_2_n","cluster_3_n"
+"Dermis1","GSM5264341","healthy_dermis","Dermis","Uninjured",1,1799,0,887,68
+"Dermis2","GSM5264342","healthy_dermis","Dermis","Uninjured",2,283,4,171,64
+"Dermis3","GSM5264343","healthy_dermis","Dermis","Uninjured",3,390,0,654,25
+"SF1","GSM5264344","nonpathogenic_skoog_fascia","SF","Uninjured",1,1207,1,372,107
+"SF2","GSM5264345","nonpathogenic_skoog_fascia","SF","Uninjured",2,891,13,202,53
+"SF3","GSM5264346","nonpathogenic_skoog_fascia","SF","Uninjured",3,369,0,65,12
+"DD1","GSM5264347","dupuytren_disease","DD","DD",1,838,106,523,495
+"DD2","GSM5264348","dupuytren_disease","DD","DD",2,1457,2325,334,291
+"DD3","GSM5264349","dupuytren_disease","DD","DD",3,574,1677,391,340

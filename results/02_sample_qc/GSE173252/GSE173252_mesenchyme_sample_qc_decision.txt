@@ -1,0 +1,20 @@
+GSE173252 mesenchymal-cell sample-level QC audit
+Audit date: 2026-08-23
+Cells audited: 16988
+Samples audited: 9
+Sample groups: healthy_dermis, nonpathogenic_skoog_fascia, dupuytren_disease
+All source and condition labels match the sample map: TRUE
+Predicted doublets: 326
+Overall predicted doublet rate (%): 1.919
+Cell-count range per sample: 446 to 4407
+Maximum/minimum sample cell-count ratio: 9.88
+Samples with fewer than 500 cells: SF3
+Cells with mitochondrial percentage >=10%: 0
+
+Interpretation and decision:
+- All nine sample identities are preserved and can serve as sample-level units.
+- Cell yields are strongly imbalanced across samples; cell-level tests must not be used as donor-level evidence.
+- Predicted doublets remain annotated and should be excluded or sensitivity-tested before downstream analysis.
+- The object is already processed; do not impose new QC thresholds before reproducing the published annotations.
+- Next, identify the four mesenchymal clusters using original markers and sample-aware pseudobulk evidence.
+- Do not start CellChat, spatial analysis, or GWAS yet.

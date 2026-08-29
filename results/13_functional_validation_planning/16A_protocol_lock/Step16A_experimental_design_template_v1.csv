@@ -1,0 +1,7 @@
+"donor_id","source_tissue","passage","batch","plate_id","mechanical_condition","perturbation","vehicle_or_control","treatment_time","technical_well","primary_assay","orthogonal_assay","viability_qc","proliferation_qc","blinded_code","qc_status","notes"
+"D01","","","","P01","relaxed","vehicle","matched vehicle","","T01","locked before run","YAP/TAZ or cytoskeletal readout","","","","pending",""
+"D01","","","","P01","challenge","vehicle","matched vehicle","","T01","locked before run","YAP/TAZ or cytoskeletal readout","","","","pending",""
+"D01","","","","P01","relaxed","integrin_axis","matched vehicle/non-targeting","","T01","locked before run","YAP/TAZ or cytoskeletal readout","","","","pending",""
+"D01","","","","P01","challenge","integrin_axis","matched vehicle/non-targeting","","T01","locked before run","YAP/TAZ or cytoskeletal readout","","","","pending",""
+"D01","","","","P01","relaxed","rho_actomyosin_axis","matched vehicle/non-targeting","","T01","locked before run","YAP/TAZ or cytoskeletal readout","","","","pending",""
+"D01","","","","P01","challenge","rho_actomyosin_axis","matched vehicle/non-targeting","","T01","locked before run","YAP/TAZ or cytoskeletal readout","","","","pending",""

@@ -1,0 +1,5 @@
+"module","candidate_genes","supported_genes","support_fraction","median_F7_minus_median_other_state_mean","supported_gene_names"
+"actomyosin_rho",4,0,0,NA,""
+"hippo_yap_taz",2,0,0,NA,""
+"integrin_focal_adhesion",6,0,0,NA,""
+"mechanosensor_channels",3,0,0,NA,""

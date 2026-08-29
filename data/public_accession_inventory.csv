@@ -1,0 +1,13 @@
+repository,accession,analysis_role,expression_evidence,redistributed_here,persistent_url
+NCBI GEO,GSE173252,Discovery and cluster reproduction,yes,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE173252
+NCBI BioProject,PRJNA607098,Primary paired atlas validation and co-expression audit,yes,no,https://www.ncbi.nlm.nih.gov/bioproject/PRJNA607098
+NCBI GEO,GSE130973,Independent exploratory subject-level validation,yes,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE130973
+NCBI GEO,GSE300230,Direct mechanical-tension plausibility analysis,yes,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE300230
+NCBI GEO,GSE338388,TGF-beta and TEAD regulatory-axis cross-validation,yes,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE338388
+NCBI GEO,GSE123100,Cross-tissue descriptive stiffness context,yes,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE123100
+NCBI GEO,GSE276045,Cross-tissue WI-38 stiffness-slope analysis,yes,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276045
+NCBI GEO,GSE273293,Provenance and recovery-feasibility assessment only,no,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273293
+NCBI GEO,GSE175817,Screened or audited; not a confirmatory expression source,no,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175817
+NCBI GEO,GSE202352,Screened or audited; not a confirmatory expression source,no,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202352
+NCBI GEO,GSE228421,Screened or audited; not a confirmatory expression source,no,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE228421
+NCBI GEO,GSE138669,Screened or audited; not a confirmatory expression source,no,no,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138669

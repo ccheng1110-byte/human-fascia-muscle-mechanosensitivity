@@ -1,0 +1,15 @@
+sample_id,condition,total_cells,source_document,source_table,rendered_page,interpretation
+Con_01,control,12100,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+Con_02,control,1373,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+Con_03,control,3913,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+Con_04,control,7526,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_01,GMC,954,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_02,GMC,13436,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_03,GMC,5428,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_04,GMC,5525,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_05,GMC,6805,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_06,GMC,6949,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_07,GMC,4850,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_08,GMC,4526,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_09,GMC,1700,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only
+GMC_10,GMC,11074,12967_2024_5889_MOESM2_ESM.docx,Supplementary Table 3,3,sample-level abundance only

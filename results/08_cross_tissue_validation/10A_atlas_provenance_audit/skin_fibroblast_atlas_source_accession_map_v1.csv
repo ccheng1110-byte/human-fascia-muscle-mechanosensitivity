@@ -1,0 +1,33 @@
+"source_link_or_accession","first_author","pmid","publication_year","diseases_included","source_accession","overlaps_GSE173252","overlaps_PRJNA607098","overlaps_existing_project","independent_candidate_after_exclusion","source_role","present_in_existing_step08_source_audit"
+"GSE202352","Wiedemann",36732947,2023,NA,"GSE202352",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE228421","Francis ",38291032,2024,"Psoriasis","GSE228421",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE181316","Direder",36333467,2022,"Keloid","GSE181316",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE173252","Dobie",34274346,2022,"Dupuytren contracture","GSE173252",TRUE,FALSE,TRUE,FALSE,"discovery_overlap_GSE173252",NA
+"GSE173706","Ma",38051587,2024,"Psoriasis","GSE173706",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE138669","Tabib",34042322,2022,"Systemic sclerosis","GSE138669",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE144236","Ji",32579974,2020,"Squamous cell carcinoma","GSE144236",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE186476","Dunlap",35290245,2022,"Lupus","GSE186476",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE249279","Ma",38172207,2024,"Systemic sclerosis","GSE249279",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"PRJNA754272","Ahlers",35069694,2022,NA,"PRJNA754272",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE212450","Ober-Reybolds",37500727,2023,"Alopecia areata ","GSE212450",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE175990","Mariottoni",34504848,2021,"Hidradenitis suppurativa","GSE175990",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE158924","Wang",33317858,2021,"Granuloma annulare","GSE158924",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE166796","Jiang",34061047,2021,"Lyme disease (erythema migrans)","GSE166796",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+" https://spatial-skin-atlas.cellgeni.sanger.ac.uk/ ","Ganier",38165934,2024,"Basal cell carcinoma",NA,NA,NA,NA,FALSE,NA,NA
+"GSE130973","Sole-Boldo",32327715,2020,NA,"GSE130973",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"https://developmentcellatlas.ncl.ac.uk/datasets/hca_skin_portal.","Reynolds",33479125,2021,"Atopic dermatitis, psoriasis",NA,NA,NA,NA,FALSE,NA,NA
+"GSE229279","Damo",37344588,2023,"Immunotherapy reaction ( lichenoid cutaneous)","GSE229279",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE132802","Kim",31959990,2020,"DRESS","GSE132802",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE175817","Do",35171653,2022,"Acne","GSE175817",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE181297","Shim",35123990,2022,"Keloid","GSE181297",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE215120","Zhang",36433984,2022,"Acral+cutaneous melanoma","GSE215120",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE123813","Yost",31359002,2019,"Basal cell carcinoma and squamous cell carcinoma","GSE123813",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE163028","Neurofibroma",33413690,2021,"Neurofibroma","GSE163028",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE169147","Damsky",35668129,2022,"Sarcoidosis","GSE169147",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE234987","Xing",37471168,2023,"Pansclerotic morphoea","GSE234987",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE163973","Deng",34140509,2021,"Keloid","GSE163973",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE233280","Patel",38246584,2024,"Prurigo nodularis","GSE233280",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE154775","Gudjonsson",32853177,2020,"Hidradenitis suppurativa","GSE154775",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"PRJNA607098","Layton",32488016,2020,"Dupuytren contracture","PRJNA607098",FALSE,TRUE,TRUE,FALSE,"validation_overlap_PRJNA607098",NA
+"GSE189889","Li",35247927,2022,"Acral melanoma","GSE189889",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA
+"GSE181907","Yerly",35986012,2022,"Basal cell carcinoma","GSE181907",FALSE,FALSE,FALSE,TRUE,"independent_candidate_pending_sample_audit",NA

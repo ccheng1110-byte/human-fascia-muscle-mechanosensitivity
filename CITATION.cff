@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived result package, please cite the associated manuscript and the archived software release."
+title: "Human fascia–muscle mechanosensitivity transcriptomic analysis"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Cheng
+  - family-names: Huang
+    given-names: Hai
+  - family-names: Sun
+    given-names: Jian
+    orcid: "https://orcid.org/0000-0001-7189-8493"
+version: 1.0.0
+date-released: 2026-08-29
+license: MIT
+abstract: >-
+  Analysis code, frozen registries, machine-readable results, decision records,
+  and figure source data supporting a cross-tissue transcriptomic evaluation of
+  an ECM–integrin–cytoskeletal programme in human fibroblast states.
+keywords:
+  - mechanotransduction
+  - fibroblast
+  - fascia
+  - extracellular matrix
+  - integrin
+  - actomyosin
+  - transcriptomics

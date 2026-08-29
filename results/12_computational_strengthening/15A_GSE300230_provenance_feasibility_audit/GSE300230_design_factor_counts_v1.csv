@@ -1,0 +1,10 @@
+"factor","level","samples"
+"biological_unit","GM08401",12
+"biological_unit","GM09503",12
+"age_group","older",12
+"age_group","young",12
+"mechanical_condition","ambiguous",12
+"mechanical_condition","tension",12
+"tgfb_condition","absent",8
+"tgfb_condition","present",8
+"tgfb_condition","unresolved",8

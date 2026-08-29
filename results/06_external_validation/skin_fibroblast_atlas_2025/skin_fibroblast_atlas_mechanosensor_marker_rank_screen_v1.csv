@@ -1,0 +1,7 @@
+"gene","atlas_states_with_gene","F7_rank","F7_rank_fraction","F6_myofibroblast_rank","F6_inflammatory_myofibroblast_rank","F_fascia_rank","median_non_F7_rank","F7_rank_advantage_vs_median_non_F7","best_rank_across_states","best_rank_state","F7_top_decile","F7_better_than_median_non_F7","exploratory_atlas_support"
+"PIEZO2",13,435,0.0136329447160587,64,30453,46,30643,30208,46,"F_Fascia",TRUE,TRUE,TRUE
+"PKD2",13,702,0.0220007521624671,2008,2788,149,23008,22306,149,"F_Fascia",TRUE,TRUE,TRUE
+"TMEM63B",13,882,0.0276419706656638,3661,3406,1632,27653.5,26771.5,882,"F7: Fascia-like myofibroblast",TRUE,TRUE,TRUE
+"TRPV4",13,3331,0.104393882411934,1940,2128,7086,24195.5,20864.5,1940,"F6: Myofibroblast",FALSE,TRUE,FALSE
+"PIEZO1",13,4679,0.146640340980318,4659,830,2495,8503,3824,830,"F6: Inflammatory myofibroblast",FALSE,TRUE,FALSE
+"PANX1",13,28473,0.89234674689733,29836,1805,29041,28809,336,548,"F2/3: Stroma_PPARG+",FALSE,TRUE,FALSE

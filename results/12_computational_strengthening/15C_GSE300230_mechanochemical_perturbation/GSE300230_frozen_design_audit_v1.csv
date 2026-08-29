@@ -1,0 +1,17 @@
+"cell_line","matrix_column","gsm_accession","age_background","mechanical_condition","tgfb_condition","batch","analysis_group","residual_df"
+"GM09503","YNT1","GSM9056069","young_10y","relaxed","present","1","relaxed_present",3
+"GM09503","YNT2","GSM9056070","young_10y","relaxed","present","2","relaxed_present",3
+"GM09503","YNC1","GSM9056067","young_10y","relaxed","absent","1","relaxed_absent",3
+"GM09503","YNC2","GSM9056068","young_10y","relaxed","absent","2","relaxed_absent",3
+"GM09503","YRT1","GSM9056065","young_10y","tension","present","1","tension_present",3
+"GM09503","YRT2","GSM9056066","young_10y","tension","present","2","tension_present",3
+"GM09503","YRC1","GSM9056063","young_10y","tension","absent","1","tension_absent",3
+"GM09503","YRC2","GSM9056064","young_10y","tension","absent","2","tension_absent",3
+"GM08401","ONT1","GSM9056061","older_75y","relaxed","present","1","relaxed_present",3
+"GM08401","ONT2","GSM9056062","older_75y","relaxed","present","2","relaxed_present",3
+"GM08401","ONC1","GSM9056059","older_75y","relaxed","absent","1","relaxed_absent",3
+"GM08401","ONC2","GSM9056060","older_75y","relaxed","absent","2","relaxed_absent",3
+"GM08401","ORT1","GSM9056057","older_75y","tension","present","1","tension_present",3
+"GM08401","ORT2","GSM9056058","older_75y","tension","present","2","tension_present",3
+"GM08401","ORC1","GSM9056055","older_75y","tension","absent","1","tension_absent",3
+"GM08401","ORC2","GSM9056056","older_75y","tension","absent","2","tension_absent",3

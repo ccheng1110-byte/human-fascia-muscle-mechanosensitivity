@@ -1,0 +1,2 @@
+"source","source_role","sample_or_donor_unit","subjects","subject_ids","subject_mapping_gate","frozen_candidate_cluster_count","candidate_clusters","candidate_cluster_gate","registry_genes_present_in_existing_audit","registry_genes_total_in_existing_audit","registry_coverage_gate","source_independence_status"
+"GSE130973","S1 independent skin-fibroblast supplementary source","subject field subj",5,"S1;S2;S3;S4;S5",TRUE,5,"9;1;3;2;10",TRUE,179,181,FALSE,"five-subject skin source; separate study, not pooled with PRJNA607098"

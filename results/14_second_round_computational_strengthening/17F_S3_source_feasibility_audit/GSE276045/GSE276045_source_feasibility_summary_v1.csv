@@ -1,0 +1,2 @@
+"gse_accession","source_role","metadata_gate","samples","stiffness_resolved_fraction","stiffness_level_count","stiffness_levels_or_labels","cell_model_summary","wi38_fraction","proliferation_resolved_fraction","biological_unit_unique_count","batch_unique_count","processed_candidate_count","supplementary_listing_error","decision"
+"GSE276045","S3_WI38_stiffness_x_proliferation_cross_check","PASS_METADATA_RETRIEVED",178,0.747191011235955,4,"0.5kpa | 2kpa | 16kpa | 32kpa","WI-38",1,0,7,0,1,"none","PARTIAL_PROCEED_TO_MANUAL_WI38_REVIEW"

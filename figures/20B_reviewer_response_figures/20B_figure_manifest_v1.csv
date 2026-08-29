@@ -1,0 +1,6 @@
+"figure","stem","inferential_unit","formats"
+"Figure 1","20B_Figure1_evidence_workflow","workflow","PNG;SVG;PDF;TIFF"
+"Figure 2","20B_Figure2_sample_subject_module_contrasts","12 sample units / 5 subjects","PNG;SVG;PDF;TIFF"
+"Figure 3","20B_Figure3_frozen_candidate_raw_contrasts","12 sample units / 5 subjects","PNG;SVG;PDF;TIFF"
+"Figure 4","20B_Figure4_competition_residuals","12 sample units","PNG;SVG;PDF;TIFF"
+"Figure 5","20B_Figure5_GSE300230_tension_response","two separately modeled cell lines","PNG;SVG;PDF;TIFF"

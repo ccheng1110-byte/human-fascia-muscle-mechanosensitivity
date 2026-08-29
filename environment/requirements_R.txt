@@ -1,0 +1,21 @@
+R >= 4.3
+
+# CRAN packages
+BiocManager
+ggplot2
+Matrix
+ragg
+reticulate >= 1.41
+scales
+Seurat
+svglite
+
+# Bioconductor packages
+Biobase
+edgeR
+GEOquery
+limma
+SummarizedExperiment
+
+# Analysis was completed with R 4.6.1 on Windows.
+# Exact Python constraints used by reticulate are declared in the relevant R scripts.

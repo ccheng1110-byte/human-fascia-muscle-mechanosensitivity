@@ -1,0 +1,12 @@
+Primary analysis environment
+============================
+
+Operating system: Windows 11, x86_64
+R version: 4.6.1
+Seurat version observed during object audit: 5.1.1
+Managed Python version used by reticulate workflows: 3.12.14
+
+The remote-Zarr scripts declare bounded Python requirements through
+reticulate::py_require(). Package installation dates are frozen within those
+scripts through the exclude_newer argument. Large local runtime caches are not
+included in this release.

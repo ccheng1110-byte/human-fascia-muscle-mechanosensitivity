@@ -1,0 +1,847 @@
+﻿GSE,Patient_status,disease_category_orig,celltype,lesional_vs_nonlesional,celltype_skinspecific_nomenclature,cells
+GSE,Psoriasis,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,4490
+GSE,Psoriasis,Inflammatory without scarring,F1: Superficial,PostRx,Papillary,7527
+GSE,Psoriasis,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,410
+GSE,Psoriasis,Inflammatory without scarring,F2/3: Stroma_PPARG+,PostRx,Reticular: pre-adipocyte enriched,320
+GSE,Psoriasis,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,511
+GSE,Psoriasis,Inflammatory without scarring,F2: Universal,PostRx,Reticular: universal,470
+GSE,Psoriasis,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,1607
+GSE,Psoriasis,Inflammatory without scarring,F3: FRC-like,PostRx,FRC-like,2941
+GSE,Psoriasis,Inflammatory without scarring,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,16
+GSE,Psoriasis,Inflammatory without scarring,F4: DP_HHIP+,PostRx,HF: DP_HHIP+,66
+GSE,Psoriasis,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,515
+GSE,Psoriasis,Inflammatory without scarring,F4: DS_DPEP1+,PostRx,HF: DS_DPEP1+,933
+GSE,Psoriasis,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,141
+GSE,Psoriasis,Inflammatory without scarring,F4: TNN+COCH+,PostRx,HF: TNN+COCH+,298
+GSE,Psoriasis,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,59
+GSE,Psoriasis,Inflammatory without scarring,F5: NGFR+,PostRx,Schwann-like: NGFR+,86
+GSE,Psoriasis,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,201
+GSE,Psoriasis,Inflammatory without scarring,F5: RAMP1+,PostRx,Schwann-like: RAMP1+,162
+GSE,Psoriasis,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,128
+GSE,Psoriasis,Inflammatory without scarring,F6: Inflammatory myofibroblast,PostRx,__MISSING__,119
+GSE,Psoriasis,Inflammatory without scarring,F6: Myofibroblast,Lesional,Myofibroblast,27
+GSE,Psoriasis,Inflammatory without scarring,F6: Myofibroblast,PostRx,Myofibroblast,41
+GSE,Psoriasis,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,9
+GSE,Psoriasis,Inflammatory without scarring,F7: Fascia-like myofibroblast,PostRx,__MISSING__,16
+GSE,Psoriasis,Nonlesional,F1: Superficial,Nonlesional,Papillary,3115
+GSE,Psoriasis,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,1263
+GSE,Psoriasis,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,897
+GSE,Psoriasis,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,1999
+GSE,Psoriasis,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,57
+GSE,Psoriasis,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,1760
+GSE,Psoriasis,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,623
+GSE,Psoriasis,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,168
+GSE,Psoriasis,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,322
+GSE,Psoriasis,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,8
+GSE,Psoriasis,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,35
+GSE,Psoriasis,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,7
+GSE123813,BCC,Cancer,F1: Superficial,Lesional,Papillary,65
+GSE123813,BCC,Cancer,F1: Superficial,PostRx,Papillary,16
+GSE123813,BCC,Cancer,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,9
+GSE123813,BCC,Cancer,F2/3: Stroma_PPARG+,PostRx,Reticular: pre-adipocyte enriched,7
+GSE123813,BCC,Cancer,F2: Universal,Lesional,Reticular: universal,5
+GSE123813,BCC,Cancer,F2: Universal,PostRx,Reticular: universal,1
+GSE123813,BCC,Cancer,F3: FRC-like,Lesional,FRC-like,20
+GSE123813,BCC,Cancer,F3: FRC-like,PostRx,FRC-like,21
+GSE123813,BCC,Cancer,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,89
+GSE123813,BCC,Cancer,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,50
+GSE123813,BCC,Cancer,F4: DS_DPEP1+,PostRx,HF: DS_DPEP1+,2
+GSE123813,BCC,Cancer,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,32
+GSE123813,BCC,Cancer,F4: TNN+COCH+,PostRx,HF: TNN+COCH+,5
+GSE123813,BCC,Cancer,F5: NGFR+,Lesional,Schwann-like: NGFR+,6
+GSE123813,BCC,Cancer,F5: NGFR+,PostRx,Schwann-like: NGFR+,3
+GSE123813,BCC,Cancer,F5: RAMP1+,PostRx,Schwann-like: RAMP1+,4
+GSE123813,BCC,Cancer,F6: Inflammatory myofibroblast,Lesional,__MISSING__,275
+GSE123813,BCC,Cancer,F6: Inflammatory myofibroblast,PostRx,__MISSING__,311
+GSE123813,BCC,Cancer,F6: Myofibroblast,Lesional,Myofibroblast,33
+GSE123813,BCC,Cancer,F6: Myofibroblast,PostRx,Myofibroblast,43
+GSE123813,BCC,Cancer,F7: Fascia-like myofibroblast,Lesional,__MISSING__,37
+GSE123813,BCC,Cancer,F7: Fascia-like myofibroblast,PostRx,__MISSING__,9
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,224
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,43
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,108
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,267
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,10
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,3
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,13
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,5
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,1
+GSE132802,Drug reaction: DRESS,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,1
+GSE138669,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,1229
+GSE138669,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,563
+GSE138669,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,1074
+GSE138669,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,505
+GSE138669,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,5
+GSE138669,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,861
+GSE138669,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,512
+GSE138669,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,188
+GSE138669,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,65
+GSE138669,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,2
+GSE138669,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,17
+GSE138669,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,3
+GSE138669,SSc,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,1424
+GSE138669,SSc,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,254
+GSE138669,SSc,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,762
+GSE138669,SSc,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,1114
+GSE138669,SSc,"Scarring
+(localised or generalised)",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,48
+GSE138669,SSc,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,856
+GSE138669,SSc,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,522
+GSE138669,SSc,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,122
+GSE138669,SSc,"Scarring
+(localised or generalised)",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,40
+GSE138669,SSc,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,36
+GSE138669,SSc,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,233
+GSE138669,SSc,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,31
+GSE138669,SSc,"Scarring
+(localised or generalised)",F_Fascia,Lesional,Fascia,1
+GSE144236,SCC,Cancer,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,3
+GSE144236,SCC,Cancer,F3: FRC-like,Lesional,FRC-like,2
+GSE144236,SCC,Cancer,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,3
+GSE144236,SCC,Cancer,F5: NGFR+,Lesional,Schwann-like: NGFR+,1
+GSE144236,SCC,Cancer,F6: Inflammatory myofibroblast,Lesional,__MISSING__,616
+GSE144236,SCC,Cancer,F6: Myofibroblast,Lesional,Myofibroblast,50
+GSE144236,SCC,Cancer,F7: Fascia-like myofibroblast,Lesional,__MISSING__,16
+GSE144236,SCC,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,2
+GSE144236,SCC,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,111
+GSE144236,SCC,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,8
+GSE154775,HS,"Inflammatory with
+risk of scarring",F1: Superficial,Lesional,Papillary,130
+GSE154775,HS,"Inflammatory with
+risk of scarring",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,165
+GSE154775,HS,"Inflammatory with
+risk of scarring",F2: Universal,Lesional,Reticular: universal,114
+GSE154775,HS,"Inflammatory with
+risk of scarring",F3: FRC-like,Lesional,FRC-like,123
+GSE154775,HS,"Inflammatory with
+risk of scarring",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,5
+GSE154775,HS,"Inflammatory with
+risk of scarring",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,52
+GSE154775,HS,"Inflammatory with
+risk of scarring",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,10
+GSE154775,HS,"Inflammatory with
+risk of scarring",F5: NGFR+,Lesional,Schwann-like: NGFR+,11
+GSE154775,HS,"Inflammatory with
+risk of scarring",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,27
+GSE154775,HS,"Inflammatory with
+risk of scarring",F6: Inflammatory myofibroblast,Lesional,__MISSING__,180
+GSE154775,HS,"Inflammatory with
+risk of scarring",F6: Myofibroblast,Lesional,Myofibroblast,171
+GSE154775,HS,"Inflammatory with
+risk of scarring",F7: Fascia-like myofibroblast,Lesional,__MISSING__,33
+GSE158924,Granuloma annulare,Granulomatous,F1: Superficial,Lesional,Papillary,12
+GSE158924,Granuloma annulare,Granulomatous,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,62
+GSE158924,Granuloma annulare,Granulomatous,F2: Universal,Lesional,Reticular: universal,24
+GSE158924,Granuloma annulare,Granulomatous,F3: FRC-like,Lesional,FRC-like,135
+GSE158924,Granuloma annulare,Granulomatous,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,4
+GSE158924,Granuloma annulare,Granulomatous,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,45
+GSE158924,Granuloma annulare,Granulomatous,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,26
+GSE158924,Granuloma annulare,Granulomatous,F5: NGFR+,Lesional,Schwann-like: NGFR+,7
+GSE158924,Granuloma annulare,Granulomatous,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,22
+GSE158924,Granuloma annulare,Granulomatous,F6: Inflammatory myofibroblast,Lesional,__MISSING__,18
+GSE158924,Granuloma annulare,Granulomatous,F6: Myofibroblast,Lesional,Myofibroblast,26
+GSE158924,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,149
+GSE158924,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,100
+GSE158924,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,382
+GSE158924,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,252
+GSE158924,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,1
+GSE158924,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,48
+GSE158924,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,66
+GSE158924,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,7
+GSE158924,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,27
+GSE158924,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,2
+GSE158924,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,1
+GSE158924,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,1
+GSE163028,Neurofibroma,"Benign
+neoplasia",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,1665
+GSE163028,Neurofibroma,"Benign
+neoplasia",F2: Universal,Lesional,Reticular: universal,7
+GSE163028,Neurofibroma,"Benign
+neoplasia",F3: FRC-like,Lesional,FRC-like,7
+GSE163028,Neurofibroma,"Benign
+neoplasia",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,2
+GSE163028,Neurofibroma,"Benign
+neoplasia",F5: NGFR+,Lesional,Schwann-like: NGFR+,3378
+GSE163028,Neurofibroma,"Benign
+neoplasia",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,1557
+GSE163028,Neurofibroma,"Benign
+neoplasia",F7: Fascia-like myofibroblast,Lesional,__MISSING__,1
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,171
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,509
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,207
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,442
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,6
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,81
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,21
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,64
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,127
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,116
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,1597
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,593
+GSE163973,Keloid,"Scarring
+(localised or generalised)",F_Fascia,Lesional,Fascia,1
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,37
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,297
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,148
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,93
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,4
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,196
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,17
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,13
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,29
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,7
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,17
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,3
+GSE163973,Non-keloid scar,"Scarring
+(localised or generalised)",F_Fascia,Lesional,Fascia,6
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,3720
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,28
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,331
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,1603
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,171
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,66
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,37
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,2
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,17
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F6: Myofibroblast,Lesional,Myofibroblast,19
+GSE166796,Lyme_disease/Erythema migrans,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,4
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F1: Superficial,Nonlesional,Papillary,2309
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,114
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,543
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,1315
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,2
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,807
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,408
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,41
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,2
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,2
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,60
+GSE166796,Lyme_disease/Erythema migrans,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,12
+GSE169147,Sarcoidosis,Granulomatous,F1: Superficial,Lesional,Papillary,174
+GSE169147,Sarcoidosis,Granulomatous,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,478
+GSE169147,Sarcoidosis,Granulomatous,F2: Universal,Lesional,Reticular: universal,424
+GSE169147,Sarcoidosis,Granulomatous,F3: FRC-like,Lesional,FRC-like,458
+GSE169147,Sarcoidosis,Granulomatous,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,12
+GSE169147,Sarcoidosis,Granulomatous,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,32
+GSE169147,Sarcoidosis,Granulomatous,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,31
+GSE169147,Sarcoidosis,Granulomatous,F5: NGFR+,Lesional,Schwann-like: NGFR+,12
+GSE169147,Sarcoidosis,Granulomatous,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,37
+GSE169147,Sarcoidosis,Granulomatous,F6: Inflammatory myofibroblast,Lesional,__MISSING__,256
+GSE169147,Sarcoidosis,Granulomatous,F6: Myofibroblast,Lesional,Myofibroblast,276
+GSE169147,Sarcoidosis,Granulomatous,F7: Fascia-like myofibroblast,Lesional,__MISSING__,6
+GSE173252,Dupuytren's,Nonlesional,F1: Superficial,Nonlesional,Papillary,19
+GSE173252,Dupuytren's,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,1936
+GSE173252,Dupuytren's,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,779
+GSE173252,Dupuytren's,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,56
+GSE173252,Dupuytren's,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,58
+GSE173252,Dupuytren's,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,459
+GSE173252,Dupuytren's,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,34
+GSE173252,Dupuytren's,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,281
+GSE173252,Dupuytren's,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,269
+GSE173252,Dupuytren's,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,7
+GSE173252,Dupuytren's,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,35
+GSE173252,Dupuytren's,Nonlesional,F_Fascia,Nonlesional,Fascia,1124
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,7
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,1289
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,541
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,65
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,2
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,1
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,139
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,72
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,35
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,302
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,3499
+GSE173252,Dupuytren's,"Scarring
+(localised or generalised)",F_Fascia,Lesional,Fascia,699
+GSE173706,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,723
+GSE173706,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,65
+GSE173706,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,233
+GSE173706,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,115
+GSE173706,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,19
+GSE173706,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,114
+GSE173706,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,89
+GSE173706,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,73
+GSE173706,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,22
+GSE173706,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,2
+GSE173706,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,3
+GSE173706,Psoriasis,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,1409
+GSE173706,Psoriasis,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,564
+GSE173706,Psoriasis,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,891
+GSE173706,Psoriasis,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,833
+GSE173706,Psoriasis,Inflammatory without scarring,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,9
+GSE173706,Psoriasis,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,479
+GSE173706,Psoriasis,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,94
+GSE173706,Psoriasis,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,60
+GSE173706,Psoriasis,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,71
+GSE173706,Psoriasis,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,14
+GSE173706,Psoriasis,Inflammatory without scarring,F6: Myofibroblast,Lesional,Myofibroblast,64
+GSE173706,Psoriasis,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,30
+GSE173706,Psoriasis,Nonlesional,F1: Superficial,Nonlesional,Papillary,1602
+GSE173706,Psoriasis,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,322
+GSE173706,Psoriasis,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,639
+GSE173706,Psoriasis,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,344
+GSE173706,Psoriasis,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,21
+GSE173706,Psoriasis,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,304
+GSE173706,Psoriasis,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,83
+GSE173706,Psoriasis,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,87
+GSE173706,Psoriasis,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,106
+GSE173706,Psoriasis,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,2
+GSE173706,Psoriasis,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,18
+GSE173706,Psoriasis,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,8
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F1: Superficial,Lesional,Papillary,419
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,71
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F2: Universal,Lesional,Reticular: universal,28
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F3: FRC-like,Lesional,FRC-like,428
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,9
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,169
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,37
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F5: NGFR+,Lesional,Schwann-like: NGFR+,16
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,19
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F6: Inflammatory myofibroblast,Lesional,__MISSING__,693
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F6: Myofibroblast,Lesional,Myofibroblast,133
+GSE175817,Acne,"Inflammatory with
+risk of scarring",F7: Fascia-like myofibroblast,Lesional,__MISSING__,29
+GSE175990,HS,"Inflammatory with
+risk of scarring",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,5
+GSE175990,HS,"Inflammatory with
+risk of scarring",F2: Universal,Lesional,Reticular: universal,21
+GSE175990,HS,"Inflammatory with
+risk of scarring",F3: FRC-like,Lesional,FRC-like,4
+GSE175990,HS,"Inflammatory with
+risk of scarring",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,1
+GSE175990,HS,"Inflammatory with
+risk of scarring",F6: Inflammatory myofibroblast,Lesional,__MISSING__,159
+GSE175990,HS,"Inflammatory with
+risk of scarring",F6: Myofibroblast,Lesional,Myofibroblast,69
+GSE175990,HS,"Inflammatory with
+risk of scarring",F7: Fascia-like myofibroblast,Lesional,__MISSING__,5
+GSE175990,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,59
+GSE175990,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,448
+GSE175990,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,652
+GSE175990,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,107
+GSE175990,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,278
+GSE175990,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,14
+GSE175990,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,14
+GSE175990,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,20
+GSE175990,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,18
+GSE175990,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,1
+GSE175990,Healthy,Nonlesional,F_Fascia,Nonlesional,Fascia,2
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,399
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,32
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,54
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,342
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,5
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,4
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,2
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,150
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,2946
+GSE181297,Keloid,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,248
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,88
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,60
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,53
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,2
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,19
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,10
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,10
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,12
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,491
+GSE181297,Non-keloid scar,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,10
+GSE181316,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,653
+GSE181316,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,343
+GSE181316,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,562
+GSE181316,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,380
+GSE181316,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,2
+GSE181316,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,215
+GSE181316,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,68
+GSE181316,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,20
+GSE181316,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,61
+GSE181316,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,7
+GSE181316,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,2
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,560
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,1232
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,935
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,908
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,229
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,33
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,47
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,235
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,524
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,13232
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,1975
+GSE181316,Keloid,"Scarring
+(localised or generalised)",F_Fascia,Lesional,Fascia,21
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,1249
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,1046
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,1299
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,675
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,8
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,247
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,86
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,22
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,149
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,21
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,798
+GSE181316,Non-keloid scar,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,80
+GSE181907,BCC,Cancer,F1: Superficial,Lesional,Papillary,21
+GSE181907,BCC,Cancer,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,36
+GSE181907,BCC,Cancer,F2: Universal,Lesional,Reticular: universal,10
+GSE181907,BCC,Cancer,F3: FRC-like,Lesional,FRC-like,28
+GSE181907,BCC,Cancer,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,117
+GSE181907,BCC,Cancer,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,113
+GSE181907,BCC,Cancer,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,59
+GSE181907,BCC,Cancer,F5: NGFR+,Lesional,Schwann-like: NGFR+,4
+GSE181907,BCC,Cancer,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,4
+GSE181907,BCC,Cancer,F6: Inflammatory myofibroblast,Lesional,__MISSING__,151
+GSE181907,BCC,Cancer,F6: Myofibroblast,Lesional,Myofibroblast,160
+GSE181907,BCC,Cancer,F7: Fascia-like myofibroblast,Lesional,__MISSING__,53
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F1: Superficial,Lesional,Papillary,155
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,15
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F2: Universal,Lesional,Reticular: universal,68
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F3: FRC-like,Lesional,FRC-like,35
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,16
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,14
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,1
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F5: NGFR+,Lesional,Schwann-like: NGFR+,6
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,4
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F6: Inflammatory myofibroblast,Lesional,__MISSING__,2
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F6: Myofibroblast,Lesional,Myofibroblast,9
+GSE186476,DLE,"Inflammatory with
+risk of scarring",F7: Fascia-like myofibroblast,Lesional,__MISSING__,5
+GSE186476,DLE,Nonlesional,F1: Superficial,Nonlesional,Papillary,320
+GSE186476,DLE,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,19
+GSE186476,DLE,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,275
+GSE186476,DLE,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,66
+GSE186476,DLE,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,29
+GSE186476,DLE,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,7
+GSE186476,DLE,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,42
+GSE186476,DLE,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,1
+GSE186476,DLE,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,9
+GSE186476,DLE,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,9
+GSE186476,DLE,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,1
+GSE186476,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,2017
+GSE186476,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,411
+GSE186476,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,651
+GSE186476,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,1402
+GSE186476,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,34
+GSE186476,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,718
+GSE186476,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,188
+GSE186476,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,163
+GSE186476,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,147
+GSE186476,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,7
+GSE186476,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,19
+GSE186476,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,2
+GSE186476,SCLE,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,479
+GSE186476,SCLE,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,141
+GSE186476,SCLE,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,295
+GSE186476,SCLE,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,262
+GSE186476,SCLE,Inflammatory without scarring,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,24
+GSE186476,SCLE,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,121
+GSE186476,SCLE,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,45
+GSE186476,SCLE,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,45
+GSE186476,SCLE,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,24
+GSE186476,SCLE,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,4
+GSE186476,SCLE,Inflammatory without scarring,F6: Myofibroblast,Lesional,Myofibroblast,6
+GSE186476,SCLE,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,1
+GSE186476,SCLE,Nonlesional,F1: Superficial,Nonlesional,Papillary,676
+GSE186476,SCLE,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,78
+GSE186476,SCLE,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,527
+GSE186476,SCLE,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,363
+GSE186476,SCLE,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,10
+GSE186476,SCLE,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,56
+GSE186476,SCLE,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,125
+GSE186476,SCLE,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,38
+GSE186476,SCLE,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,43
+GSE186476,SCLE,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,4
+GSE186476,SCLE,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,7
+GSE186476,SCLE,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,8
+GSE189889,Acral melanoma,Cancer,F1: Superficial,Lesional,Papillary,66
+GSE189889,Acral melanoma,Cancer,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,128
+GSE189889,Acral melanoma,Cancer,F2: Universal,Lesional,Reticular: universal,27
+GSE189889,Acral melanoma,Cancer,F3: FRC-like,Lesional,FRC-like,89
+GSE189889,Acral melanoma,Cancer,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,8
+GSE189889,Acral melanoma,Cancer,F5: NGFR+,Lesional,Schwann-like: NGFR+,9
+GSE189889,Acral melanoma,Cancer,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,20
+GSE189889,Acral melanoma,Cancer,F6: Inflammatory myofibroblast,Lesional,__MISSING__,167
+GSE189889,Acral melanoma,Cancer,F6: Myofibroblast,Lesional,Myofibroblast,199
+GSE189889,Acral melanoma,Cancer,F7: Fascia-like myofibroblast,Lesional,__MISSING__,4
+GSE189889,Acral melanoma,Cancer,F_Fascia,Lesional,Fascia,3
+GSE202352,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,402
+GSE202352,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,456
+GSE202352,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,721
+GSE202352,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,111
+GSE202352,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,2
+GSE202352,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,63
+GSE202352,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,21
+GSE202352,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,260
+GSE202352,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,193
+GSE202352,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,1
+GSE202352,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,6
+GSE202352,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,9
+GSE202352,Healthy,Nonlesional,F_Fascia,Nonlesional,Fascia,76
+GSE212450,AA,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,191
+GSE212450,AA,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,1057
+GSE212450,AA,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,346
+GSE212450,AA,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,427
+GSE212450,AA,Inflammatory without scarring,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,106
+GSE212450,AA,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,2625
+GSE212450,AA,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,252
+GSE212450,AA,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,58
+GSE212450,AA,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,293
+GSE212450,AA,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,16
+GSE212450,AA,Inflammatory without scarring,F6: Myofibroblast,Lesional,Myofibroblast,53
+GSE212450,AA,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,5
+GSE212450,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,449
+GSE212450,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,911
+GSE212450,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,275
+GSE212450,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,706
+GSE212450,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,40
+GSE212450,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,1677
+GSE212450,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,243
+GSE212450,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,84
+GSE212450,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,309
+GSE212450,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,23
+GSE212450,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,98
+GSE212450,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,32
+GSE215120,Acral melanoma,Cancer,F1: Superficial,Lesional,Papillary,80
+GSE215120,Acral melanoma,Cancer,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,3
+GSE215120,Acral melanoma,Cancer,F3: FRC-like,Lesional,FRC-like,101
+GSE215120,Acral melanoma,Cancer,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,5
+GSE215120,Acral melanoma,Cancer,F5: NGFR+,Lesional,Schwann-like: NGFR+,9
+GSE215120,Acral melanoma,Cancer,F6: Inflammatory myofibroblast,Lesional,__MISSING__,416
+GSE215120,Acral melanoma,Cancer,F6: Inflammatory myofibroblast,PostRx,__MISSING__,37
+GSE215120,Acral melanoma,Cancer,F6: Myofibroblast,Lesional,Myofibroblast,53
+GSE215120,Acral melanoma,Cancer,F6: Myofibroblast,PostRx,Myofibroblast,20
+GSE215120,Acral melanoma,Cancer,F7: Fascia-like myofibroblast,Lesional,__MISSING__,5
+GSE215120,Acral melanoma,Cancer,F7: Fascia-like myofibroblast,PostRx,__MISSING__,2
+GSE215120,Cutaneous melanoma,Cancer,F1: Superficial,Lesional,Papillary,29
+GSE215120,Cutaneous melanoma,Cancer,F3: FRC-like,Lesional,FRC-like,3
+GSE215120,Cutaneous melanoma,Cancer,F6: Inflammatory myofibroblast,Lesional,__MISSING__,139
+GSE215120,Cutaneous melanoma,Cancer,F6: Myofibroblast,Lesional,Myofibroblast,16
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,552
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,60
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,73
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,165
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,28
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,42
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,44
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,46
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,18
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F6: Myofibroblast,Lesional,Myofibroblast,10
+GSE229279,Drug reaction: irAE,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,5
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,5146
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,1030
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,536
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,1651
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,55
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,633
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,231
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,252
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,784
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,729
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F6: Myofibroblast,Lesional,Myofibroblast,361
+GSE233280,Prurigo nodularis,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,165
+GSE234987,PSM,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,719
+GSE234987,PSM,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,73
+GSE234987,PSM,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,98
+GSE234987,PSM,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,314
+GSE234987,PSM,"Scarring
+(localised or generalised)",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,10
+GSE234987,PSM,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,108
+GSE234987,PSM,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,53
+GSE234987,PSM,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,113
+GSE234987,PSM,"Scarring
+(localised or generalised)",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,38
+GSE234987,PSM,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,20
+GSE234987,PSM,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,82
+GSE234987,PSM,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,29
+GSE249279,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,2846
+GSE249279,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,146
+GSE249279,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,1141
+GSE249279,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,713
+GSE249279,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,7
+GSE249279,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,422
+GSE249279,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,117
+GSE249279,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,107
+GSE249279,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,85
+GSE249279,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,14
+GSE249279,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,21
+GSE249279,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,7
+GSE249279,SSc,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,3734
+GSE249279,SSc,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,2455
+GSE249279,SSc,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,6339
+GSE249279,SSc,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,2625
+GSE249279,SSc,"Scarring
+(localised or generalised)",F4: DP_HHIP+,Lesional,HF: DP_HHIP+,122
+GSE249279,SSc,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,2222
+GSE249279,SSc,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,956
+GSE249279,SSc,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,695
+GSE249279,SSc,"Scarring
+(localised or generalised)",F5: RAMP1+,Lesional,Schwann-like: RAMP1+,487
+GSE249279,SSc,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,82
+GSE249279,SSc,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,1862
+GSE249279,SSc,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,417
+GSE249279,SSc,"Scarring
+(localised or generalised)",F_Fascia,Lesional,Fascia,5
+Ganier,BCC,Cancer,F1: Superficial,Lesional,Papillary,392
+Ganier,BCC,Cancer,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,476
+Ganier,BCC,Cancer,F2: Universal,Lesional,Reticular: universal,74
+Ganier,BCC,Cancer,F3: FRC-like,Lesional,FRC-like,500
+Ganier,BCC,Cancer,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,157
+Ganier,BCC,Cancer,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,862
+Ganier,BCC,Cancer,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,108
+Ganier,BCC,Cancer,F5: NGFR+,Lesional,Schwann-like: NGFR+,80
+Ganier,BCC,Cancer,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,14
+Ganier,BCC,Cancer,F6: Inflammatory myofibroblast,Lesional,__MISSING__,440
+Ganier,BCC,Cancer,F6: Myofibroblast,Lesional,Myofibroblast,197
+Ganier,BCC,Cancer,F7: Fascia-like myofibroblast,Lesional,__MISSING__,132
+Ganier,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,462
+Ganier,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,12794
+Ganier,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,2594
+Ganier,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,2941
+Ganier,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,731
+Ganier,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,8276
+Ganier,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,1116
+Ganier,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,556
+Ganier,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,194
+Ganier,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,75
+Ganier,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,263
+Ganier,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,44
+Ganier,Healthy,Nonlesional,F_Fascia,Nonlesional,Fascia,10
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F1: Superficial,Lesional,Papillary,6
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,300
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F2: Universal,Lesional,Reticular: universal,433
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F3: FRC-like,Lesional,FRC-like,27
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,6
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F4: TNN+COCH+,Lesional,HF: TNN+COCH+,62
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F5: NGFR+,Lesional,Schwann-like: NGFR+,31
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F6: Inflammatory myofibroblast,Lesional,__MISSING__,159
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F6: Myofibroblast,Lesional,Myofibroblast,1714
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F7: Fascia-like myofibroblast,Lesional,__MISSING__,30803
+PRJNA607098,Dupuytren's,"Scarring
+(localised or generalised)",F_Fascia,Lesional,Fascia,1028
+PRJNA754272,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,7330
+PRJNA754272,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,6606
+PRJNA754272,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,38309
+PRJNA754272,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,2928
+PRJNA754272,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,1
+PRJNA754272,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,2324
+PRJNA754272,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,573
+PRJNA754272,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,481
+PRJNA754272,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,342
+PRJNA754272,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,17
+PRJNA754272,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,225
+PRJNA754272,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,39
+PRJNA754272,Healthy,Nonlesional,F_Fascia,Nonlesional,Fascia,1
+Reynolds,Eczema,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,1409
+Reynolds,Eczema,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,355
+Reynolds,Eczema,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,1160
+Reynolds,Eczema,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,2236
+Reynolds,Eczema,Inflammatory without scarring,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,19
+Reynolds,Eczema,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,153
+Reynolds,Eczema,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,101
+Reynolds,Eczema,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,289
+Reynolds,Eczema,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,37
+Reynolds,Eczema,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,30
+Reynolds,Eczema,Inflammatory without scarring,F6: Myofibroblast,Lesional,Myofibroblast,92
+Reynolds,Eczema,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,11
+Reynolds,Eczema,Nonlesional,F1: Superficial,Nonlesional,Papillary,332
+Reynolds,Eczema,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,250
+Reynolds,Eczema,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,852
+Reynolds,Eczema,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,688
+Reynolds,Eczema,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,22
+Reynolds,Eczema,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,204
+Reynolds,Eczema,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,212
+Reynolds,Eczema,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,207
+Reynolds,Eczema,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,41
+Reynolds,Eczema,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,2
+Reynolds,Eczema,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,28
+Reynolds,Eczema,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,9
+Reynolds,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,2014
+Reynolds,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,35
+Reynolds,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,638
+Reynolds,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,1142
+Reynolds,Healthy,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,1
+Reynolds,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,31
+Reynolds,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,36
+Reynolds,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,197
+Reynolds,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,3
+Reynolds,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,3
+Reynolds,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,7
+Reynolds,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,1
+Reynolds,Healthy,Nonlesional,F_Fascia,Nonlesional,Fascia,1
+Reynolds,Psoriasis,Inflammatory without scarring,F1: Superficial,Lesional,Papillary,1937
+Reynolds,Psoriasis,Inflammatory without scarring,F2/3: Stroma_PPARG+,Lesional,Reticular: pre-adipocyte enriched,194
+Reynolds,Psoriasis,Inflammatory without scarring,F2: Universal,Lesional,Reticular: universal,1549
+Reynolds,Psoriasis,Inflammatory without scarring,F3: FRC-like,Lesional,FRC-like,2543
+Reynolds,Psoriasis,Inflammatory without scarring,F4: DP_HHIP+,Lesional,HF: DP_HHIP+,33
+Reynolds,Psoriasis,Inflammatory without scarring,F4: DS_DPEP1+,Lesional,HF: DS_DPEP1+,186
+Reynolds,Psoriasis,Inflammatory without scarring,F4: TNN+COCH+,Lesional,HF: TNN+COCH+,119
+Reynolds,Psoriasis,Inflammatory without scarring,F5: NGFR+,Lesional,Schwann-like: NGFR+,244
+Reynolds,Psoriasis,Inflammatory without scarring,F5: RAMP1+,Lesional,Schwann-like: RAMP1+,43
+Reynolds,Psoriasis,Inflammatory without scarring,F6: Inflammatory myofibroblast,Lesional,__MISSING__,59
+Reynolds,Psoriasis,Inflammatory without scarring,F6: Myofibroblast,Lesional,Myofibroblast,72
+Reynolds,Psoriasis,Inflammatory without scarring,F7: Fascia-like myofibroblast,Lesional,__MISSING__,18
+Reynolds,Psoriasis,Nonlesional,F1: Superficial,Nonlesional,Papillary,404
+Reynolds,Psoriasis,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,373
+Reynolds,Psoriasis,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,2119
+Reynolds,Psoriasis,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,777
+Reynolds,Psoriasis,Nonlesional,F4: DP_HHIP+,Nonlesional,HF: DP_HHIP+,43
+Reynolds,Psoriasis,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,731
+Reynolds,Psoriasis,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,433
+Reynolds,Psoriasis,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,487
+Reynolds,Psoriasis,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,26
+Reynolds,Psoriasis,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,10
+Reynolds,Psoriasis,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,27
+Reynolds,Psoriasis,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,13
+Sole-Boldo,Healthy,Nonlesional,F1: Superficial,Nonlesional,Papillary,2306
+Sole-Boldo,Healthy,Nonlesional,F2/3: Stroma_PPARG+,Nonlesional,Reticular: pre-adipocyte enriched,622
+Sole-Boldo,Healthy,Nonlesional,F2: Universal,Nonlesional,Reticular: universal,2236
+Sole-Boldo,Healthy,Nonlesional,F3: FRC-like,Nonlesional,FRC-like,1327
+Sole-Boldo,Healthy,Nonlesional,F4: DS_DPEP1+,Nonlesional,HF: DS_DPEP1+,602
+Sole-Boldo,Healthy,Nonlesional,F4: TNN+COCH+,Nonlesional,HF: TNN+COCH+,202
+Sole-Boldo,Healthy,Nonlesional,F5: NGFR+,Nonlesional,Schwann-like: NGFR+,92
+Sole-Boldo,Healthy,Nonlesional,F5: RAMP1+,Nonlesional,Schwann-like: RAMP1+,90
+Sole-Boldo,Healthy,Nonlesional,F6: Inflammatory myofibroblast,Nonlesional,__MISSING__,12
+Sole-Boldo,Healthy,Nonlesional,F6: Myofibroblast,Nonlesional,Myofibroblast,91
+Sole-Boldo,Healthy,Nonlesional,F7: Fascia-like myofibroblast,Nonlesional,__MISSING__,16

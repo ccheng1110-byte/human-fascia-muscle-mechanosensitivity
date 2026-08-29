@@ -1,0 +1,5 @@
+"tgfb_condition","tead_condition","matrix_columns"
+"exposed","tead_inhibited",3
+"not_exposed","tead_inhibited",3
+"exposed","tead_not_inhibited",3
+"not_exposed","tead_not_inhibited",3

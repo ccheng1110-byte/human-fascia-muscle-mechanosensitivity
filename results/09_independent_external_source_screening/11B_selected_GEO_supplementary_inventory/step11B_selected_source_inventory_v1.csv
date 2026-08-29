@@ -1,0 +1,6 @@
+"source_accession","status","supplementary_files","processed_or_matrix_candidates","raw_archive_candidates","fibroblast_metadata_samples","donor_metadata_samples","single_cell_metadata_samples","directory_url","error_message"
+"GSE175817","supplementary_inventory_completed",9,7,1,6,6,6,"https://ftp.ncbi.nlm.nih.gov/geo/series/GSE175nnn/GSE175817/suppl/",""
+"GSE130973","supplementary_inventory_completed",8,4,3,0,5,5,"https://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130973/suppl/",""
+"GSE202352","supplementary_inventory_completed",3,1,1,0,12,12,"https://ftp.ncbi.nlm.nih.gov/geo/series/GSE202nnn/GSE202352/suppl/",""
+"GSE228421","supplementary_inventory_completed",3,1,1,0,20,20,"https://ftp.ncbi.nlm.nih.gov/geo/series/GSE228nnn/GSE228421/suppl/",""
+"GSE138669","supplementary_inventory_completed",3,1,1,0,22,22,"https://ftp.ncbi.nlm.nih.gov/geo/series/GSE138nnn/GSE138669/suppl/",""

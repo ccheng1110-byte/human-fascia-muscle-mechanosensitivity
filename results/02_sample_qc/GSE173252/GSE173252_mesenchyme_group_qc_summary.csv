@@ -1,0 +1,4 @@
+"sample_group","n_samples","total_cells","minimum_cells_per_sample","median_cells_per_sample","maximum_cells_per_sample","mean_of_sample_median_nCount_RNA","mean_of_sample_median_nFeature_RNA","mean_of_sample_median_percent_mito","mean_sample_predicted_doublet_rate_percent"
+"healthy_dermis",3,4345,522,1069,2754,2604.67391784254,1193.33333333333,1.72519161000671,1.01341949199271
+"nonpathogenic_skoog_fascia",3,3292,446,1159,1687,5754.1271943108,2079.83333333333,5.32637279569879,0.544470488512963
+"dupuytren_disease",3,9351,1962,2982,4407,4815.02219823396,1833.16666666667,2.46133546009791,2.11283743571078

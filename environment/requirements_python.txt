@@ -1,0 +1,9 @@
+zarr>=2.18,<3
+fsspec>=2024.6
+aiohttp>=3.9
+numpy>=1.26,<3
+
+# The following packages are required only by document or QA helper scripts.
+python-docx
+pypdf
+Pillow

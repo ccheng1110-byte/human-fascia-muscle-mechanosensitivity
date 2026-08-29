@@ -1,0 +1,23 @@
+[paragraph 1] Supplementary tables and legends
+[paragraph 3] Supplementary Table 1. Sequence of primers used for RT-PCR studies.
+[paragraph 4] This table provides the list of primers used in this study.
+[paragraph 7] Supplementary Table 2. The clinical information of both the GMC patients and control tissue samples.
+[paragraph 8] This table provides the list of clinical information for both GMC and control samples.
+[paragraph 10] Supplementary Table 3. Number of cells and ratio of cells across different clusters in individual sample.
+[paragraph 11] This table lists out the number of cells and the ratio of cells across different clusters in each individual sample.
+[paragraph 14] Supplementary Table 4. Top 20 differentially expressed genes of 9 clusters identified from the fascia bands.
+[paragraph 15] This table list the top 20 differentially expressed genes in each cluster identified from the control and GMC-associated fascia bands.
+[paragraph 19] Supplementary Table 5. The proportion of each cell type in individual sample.
+[paragraph 20] This table provides the list of the proportion of each cell type in each individual sample.
+[paragraph 23] Supplementary Table 6. Top 20 differentially expressed genes between GMC and control bands across cell types.
+[paragraph 24] This table lists the top 20 differentially expressed genes between GMC fascia bands and control bands across various cell types.
+[paragraph 30] Supplementary Table 7. Top 20 differentially expressed genes of macrophage subclusters identified from the fascia bands.
+[paragraph 31] This table provides the list of top 20 differentially expressed genes in each macrophage subcluster identified from the control and GMC-associated fascia bands.
+[paragraph 37] Supplementary Table 8. Number of cells and ratio of cells across macrophage subclusters in individual sample.
+[paragraph 38] This table lists out the number of cells and the ratio of cells across macrophage subclusters in each individual sample.
+[paragraph 41] Supplementary Table 9. Top 20 differentially expressed genes of fibroblast subclusters identified from the fascia bands.
+[paragraph 42] This table provides the list of top 20 differentially expressed genes in each fibroblast subcluster identified from the control and GMC-associated fascia bands.
+[paragraph 47] Supplementary Table 10. Number of cells and ratio of cells across fibroblast subclusters in individual sample.
+[paragraph 48] This table lists out the number of cells and the ratio of cells across fibroblast subclusters in each individual sample.
+[paragraph 51] Supplementary Table 11. Ligand–target interactions between SPP1+ MP and fibroblasts.
+[paragraph 52] This table provides a list of the ligand–target interactions between SPP1+ MP and fibroblasts, including the corresponding interaction weights.

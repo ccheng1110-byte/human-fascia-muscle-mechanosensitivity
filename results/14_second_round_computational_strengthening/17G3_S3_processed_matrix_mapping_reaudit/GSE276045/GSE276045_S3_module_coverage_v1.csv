@@ -1,0 +1,10 @@
+"source","module","role","genes_total","genes_present","coverage_fraction","core_module","core_module_gate"
+"GSE276045","mechanosensor_channels","primary",20,20,1,FALSE,NA
+"GSE276045","integrin_focal_adhesion","primary",23,23,1,TRUE,TRUE
+"GSE276045","hippo_yap_taz","primary",19,19,1,TRUE,TRUE
+"GSE276045","actomyosin_rho","primary",20,20,1,TRUE,TRUE
+"GSE276045","ecm_remodeling","competitor",23,23,1,FALSE,NA
+"GSE276045","tgf_fibrosis","competitor",20,20,1,FALSE,NA
+"GSE276045","inflammation_ap1_nfkb","competitor",21,21,1,FALSE,NA
+"GSE276045","hypoxia","competitor",18,18,1,FALSE,NA
+"GSE276045","cell_cycle","competitor",18,18,1,FALSE,NA

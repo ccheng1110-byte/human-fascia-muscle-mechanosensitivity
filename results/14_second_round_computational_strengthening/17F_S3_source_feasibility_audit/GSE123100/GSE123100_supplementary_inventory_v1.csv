@@ -1,0 +1,6 @@
+"gse_accession","filename","direct_url","is_raw_archive","is_processed_matrix_candidate","auto_download_authorized"
+"GSE123100","GSE123100_cell_expressed_gene_RPKM.txt.gz","https://ftp.ncbi.nlm.nih.gov/geo/series/GSE123nnn/GSE123100/suppl/GSE123100_cell_expressed_gene_RPKM.txt.gz",FALSE,TRUE,TRUE
+"GSE123100","GSE123100_cell_expressed_gene_reads.txt.gz","https://ftp.ncbi.nlm.nih.gov/geo/series/GSE123nnn/GSE123100/suppl/GSE123100_cell_expressed_gene_reads.txt.gz",FALSE,TRUE,TRUE
+"GSE123100","GSE123100_clin_expressed_gene_FPKM.txt.gz","https://ftp.ncbi.nlm.nih.gov/geo/series/GSE123nnn/GSE123100/suppl/GSE123100_clin_expressed_gene_FPKM.txt.gz",FALSE,TRUE,TRUE
+"GSE123100","GSE123100_clin_expressed_gene_reads.txt.gz","https://ftp.ncbi.nlm.nih.gov/geo/series/GSE123nnn/GSE123100/suppl/GSE123100_clin_expressed_gene_reads.txt.gz",FALSE,TRUE,TRUE
+"GSE123100","index.html","https://www.hhs.gov/vulnerability-disclosure-policy/index.html",FALSE,FALSE,FALSE

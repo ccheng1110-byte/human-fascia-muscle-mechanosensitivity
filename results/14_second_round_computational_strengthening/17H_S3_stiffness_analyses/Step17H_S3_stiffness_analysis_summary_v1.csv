@@ -1,0 +1,3 @@
+"source","analysis","samples","candidate_coverage","core_module_gate","source_gate","interpretation_boundary","evidence_grade"
+"GSE123100","HTM descriptive stiffness dose-response form",11,"14/15",TRUE,"PARTIAL_DESCRIPTIVE_DOSE_RESPONSE_WITH_ITGA5_COVERAGE_LIMIT","Cross-tissue dose-response form only; one candidate gene (ITGA5) absent; not a formal balanced inference.","CAUTION"
+"GSE276045","WI-38 stiffness slope with cell-model interaction and timepoint adjustment",178,"15/15",TRUE,"PASS_TO_S3_EVIDENCE_SYNTHESIS_WITH_PROLIFERATION_BOUNDARY","Cross-tissue WI-38 cell-model stiffness cross-check; timepoint adjusted, proliferation-independent effect not estimable.","CAUTION"

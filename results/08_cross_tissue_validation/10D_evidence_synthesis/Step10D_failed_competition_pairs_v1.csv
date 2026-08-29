@@ -1,0 +1,5 @@
+"core_module","competitor_module","samples","spearman_rho","high_competitor_core_median","low_competitor_core_median","residual_median","residual_positive_samples","residual_support_8_of_12"
+"integrin_focal_adhesion","tgf_fibrosis",12,0.265734265734266,0.115167104368285,0.104736252936672,-0.00504811963731765,4,FALSE
+"integrin_focal_adhesion","inflammation_ap1_nfkb",12,-0.629370629370629,0.0960773730936907,0.121219985451812,-0.00926865152756621,3,FALSE
+"integrin_focal_adhesion","hypoxia",12,0.188811188811189,0.115167104368285,0.104736252936672,-0.00548760049425584,5,FALSE
+"integrin_focal_adhesion","cell_cycle",12,-0.580419580419581,0.102532750197897,0.134952878520045,-0.00485206778781691,6,FALSE

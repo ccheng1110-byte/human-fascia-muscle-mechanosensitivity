@@ -1,0 +1,6 @@
+"audit_item","field_or_value","evidence_scope","conclusion"
+"official_source_table_accession_field","source_link_or_accession","official atlas source inventory","source-level provenance available"
+"official_source_table_sample_or_donor_field","not present in scrna_seq_data.csv","official atlas source inventory","sample-level provenance not resolved by this inventory"
+"existing_PRJNA607098_sample_audit","obs/_index reconstructed sample IDs in Step 08C1","PRJNA607098-only local audit","sample IDs available for the PRJNA607098 source audit"
+"current_step08B3_target_label","F7: Fascia-like myofibroblast in atlas celltype","PRJNA607098-only local audit","target used by Step 08B3; do not assume identical to paper F8"
+"paper_fascia_like_label","F8: fascia-like myofibroblast in Nature article","official paper nomenclature","requires explicit crosswalk against the official object"

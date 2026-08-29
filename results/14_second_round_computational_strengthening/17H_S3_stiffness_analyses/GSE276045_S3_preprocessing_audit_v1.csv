@@ -1,0 +1,2 @@
+"source","matrix_path","gene_column","expression_mode","metadata_samples","mapped_samples","raw_genes","analyzed_genes","candidate_total","candidate_present_raw","candidate_included_after_filter","cell_model_levels","timepoint_levels","proliferation_state"
+"GSE276045","./data/processed/independent_sources/S3/GSE276045_bulk_RNA_seq_1_counts.txt.gz","Genes","raw_counts_voom",178,178,47859,15154,15,15,15,"WT;hTERT","1;2;3;4;5;6;7;8","not_measured_or_not_resolved"

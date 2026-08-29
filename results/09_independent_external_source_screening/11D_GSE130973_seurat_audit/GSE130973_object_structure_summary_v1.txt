@@ -1,0 +1,23 @@
+Class:
+[1] "Seurat"
+attr(,"package")
+[1] "Seurat"
+Attributes:
+ [1] "assays"       "meta.data"    "active.assay" "active.ident" "graphs"       "neighbors"    "reductions"   "project.name"
+ [9] "misc"         "version"      "commands"     "tools"        "class"       
+Structure (max.level=2):
+Formal class 'Seurat' [package "Seurat"] with 13 slots
+  ..@ assays      :List of 2
+  ..@ meta.data   :'data.frame':	15457 obs. of  8 variables:
+  ..@ active.assay: chr "RNA"
+  ..@ active.ident: Factor w/ 34 levels "6_YOUNG","5_YOUNG",..: 1 1 1 1 1 1 1 1 1 1 ...
+  .. ..- attr(*, "names")= chr [1:15457] "AAACCTGAGTTAAGTG-1" "AAACCTGTCCATTCTA-1" "AACACGTGTTCCACAA-1" "AACCGCGCACGCGAAA-1" ...
+  ..@ graphs      :List of 2
+  ..@ neighbors   : list()
+  ..@ reductions  :List of 2
+  ..@ project.name: chr "SeuratProject"
+  ..@ misc        : list()
+  ..@ version     :Classes 'package_version', 'numeric_version'  hidden list of 1
+  ..@ commands    :List of 7
+  ..@ tools       :List of 1
+  ..@ NA          : NULL

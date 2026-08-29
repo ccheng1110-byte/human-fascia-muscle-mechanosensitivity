@@ -1,0 +1,5 @@
+"module","candidate_genes","supported_genes","support_fraction","median_F7_minus_median_other_state_mean","supported_gene_names"
+"actomyosin_rho",4,4,1,0.241105897192033,"CFL1;CDC42;CNN2;LIMK1"
+"integrin_focal_adhesion",6,6,1,0.259806942053006,"ITGB1;ITGAV;FERMT2;PARVA;ITGA5;ITGA2"
+"mechanosensor_channels",3,2,0.666666666666667,0.0688008705311125,"PIEZO2;TMEM63B"
+"hippo_yap_taz",2,1,0.5,0.0120294792273128,"NF2"

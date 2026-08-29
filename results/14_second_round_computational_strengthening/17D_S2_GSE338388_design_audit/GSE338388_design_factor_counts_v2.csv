@@ -1,0 +1,9 @@
+"factor","level","samples"
+"tgfb_condition","exposed",6
+"tgfb_condition","not_exposed",6
+"tead_condition","tead_inhibited",6
+"tead_condition","tead_not_inhibited",6
+"condition_code","exposed__tead_inhibited",3
+"condition_code","exposed__tead_not_inhibited",3
+"condition_code","not_exposed__tead_inhibited",3
+"condition_code","not_exposed__tead_not_inhibited",3

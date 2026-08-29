@@ -1,0 +1,3 @@
+"filename","local_path","status","bytes","error_message"
+"GSE300230_raw_counts_tension.csv.gz","./data/processed/mechanochemical_validation/GSE300230/GSE300230_raw_counts_tension.csv.gz","downloaded",356355,""
+"GSE300230_raw_counts_tensionTGFb.csv.gz","./data/processed/mechanochemical_validation/GSE300230/GSE300230_raw_counts_tensionTGFb.csv.gz","downloaded",677164,""

@@ -1,0 +1,3 @@
+"gse_accession","corrected_role","total_samples","eligible_samples","excluded_samples","stiffness_levels","replicate_balance","proliferation_status","decision"
+"GSE123100","S3_primary_HTM_stiffness_dose_response",19,11,8,7,"mostly one sample per culture_group x stiffness cell","not relevant to primary HTM dose series","PARTIAL_PROCEED_TO_PRIMARY_MATRIX_AUDIT_WITH_DESCRIPTIVE_DOSE_LIMIT"
+"GSE276045","S3_WI38_stiffness_x_cell_model_cross_check",178,178,0,5,"replicate labels present; timepoint/stiffness cells unbalanced","not measured_or_not_resolved; do not use WT/hTERT as proliferation","PARTIAL_PROCEED_TO_WI38_CELL_MODEL_MATRIX_AUDIT"

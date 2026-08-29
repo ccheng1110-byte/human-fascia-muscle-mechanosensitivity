@@ -1,0 +1,22 @@
+"x","y","title","detail","class"
+1,2,"Discovery","GSE173252
+processed scRNA-seq","Discovery"
+2,2,"Primary paired
+validation","PRJNA607098
+12 sample units
+F7 vs non-F7","Primary"
+3,2,"Independent
+triangulation","GSE130973
+5 subjects
+state vs other clusters","External"
+3,1,"Mechanical
+perturbation","GSE300230
+2 cell lines
+tension vs relaxed","Perturbation"
+2,1,"Regulatory /
+stiffness context","GSE338388; GSE123100;
+GSE276045","Context"
+1,1,"Bounded
+evidence
+synthesis","Mechanotransduction-compatible;
+not mechanically specific","Synthesis"

@@ -1,0 +1,21 @@
+GSE173252 processed mesenchyme RDS inspection
+Inspection date: 2026-08-23
+Object class: Seurat
+Legacy Seurat object version: 3.1.2
+Object size in memory (GB): 1.575
+Active assay: SCT
+Features in inspected assay matrix: 21383
+Cells in inspected assay matrix: 16988
+Cells in metadata: 16988
+Assays: RNA, SCT
+Reductions: pca, tsne, umap
+Metadata columns: 16
+Unique cell barcodes: TRUE
+Metadata row count equals assay cell count: TRUE
+Candidate sample/group/annotation columns: orig.ident, source, condition, seurat_clusters, ordered_clusters
+
+Decision rule:
+- If a reliable sample/GSM column and cell annotation column are present, preserve them for reproduction.
+- If sample identity is missing or collapsed, do not perform donor-level differential testing from this object.
+- Do not overwrite or update the downloaded legacy object during this inspection.
+- Any later conversion to Seurat 5 must be saved as a separate derived object.

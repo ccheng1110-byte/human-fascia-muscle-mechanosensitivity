@@ -1,0 +1,4 @@
+"filename","direct_url","is_raw_archive","is_processed_text_matrix","is_other_processed_candidate","auto_download_authorized"
+"GSE300230_raw_counts_tension.csv.gz","https://ftp.ncbi.nlm.nih.gov/geo/series/GSE300nnn/GSE300230/suppl/GSE300230_raw_counts_tension.csv.gz",FALSE,TRUE,FALSE,TRUE
+"GSE300230_raw_counts_tensionTGFb.csv.gz","https://ftp.ncbi.nlm.nih.gov/geo/series/GSE300nnn/GSE300230/suppl/GSE300230_raw_counts_tensionTGFb.csv.gz",FALSE,TRUE,FALSE,TRUE
+"index.html","https://www.hhs.gov/vulnerability-disclosure-policy/index.html",FALSE,FALSE,FALSE,FALSE

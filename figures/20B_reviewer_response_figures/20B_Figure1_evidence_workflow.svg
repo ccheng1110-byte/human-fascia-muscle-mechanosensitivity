@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='518.74pt' height='297.64pt' viewBox='0 0 518.74 297.64'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MTguNzR8MC4wMHwyOTcuNjQ='>
+    <rect x='0.00' y='0.00' width='518.74' height='297.64' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHwyOTcuNjQ=)'>
+<rect x='0.00' y='0.00' width='518.74' height='297.64' style='stroke-width: 0.00; stroke: none;' />
+<line x1='111.92' y1='104.50' x2='259.37' y2='104.50' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt;' />
+<polygon points='253.97,107.62 259.37,104.50 253.97,101.38 ' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt; fill: #6B6B6B;' />
+<line x1='259.37' y1='104.50' x2='406.82' y2='104.50' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt;' />
+<polygon points='401.42,107.62 406.82,104.50 401.42,101.38 ' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt; fill: #6B6B6B;' />
+<line x1='406.82' y1='104.50' x2='406.82' y2='216.38' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt;' />
+<polygon points='403.70,210.98 406.82,216.38 409.94,210.98 ' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt; fill: #6B6B6B;' />
+<line x1='406.82' y1='216.38' x2='259.37' y2='216.38' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt;' />
+<polygon points='264.77,213.27 259.37,216.38 264.77,219.50 ' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt; fill: #6B6B6B;' />
+<line x1='259.37' y1='216.38' x2='111.92' y2='216.38' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt;' />
+<polygon points='117.32,213.27 111.92,216.38 117.32,219.50 ' style='stroke-width: 1.17; stroke: #6B6B6B; stroke-linecap: butt; fill: #6B6B6B;' />
+<polygon points='77.75,119.54 146.09,119.54 146.05,119.54 146.22,119.53 146.38,119.50 146.54,119.44 146.69,119.36 146.82,119.25 146.93,119.12 147.02,118.98 147.09,118.82 147.13,118.66 147.14,118.49 147.14,118.49 147.14,90.51 147.14,90.51 147.13,90.34 147.09,90.18 147.02,90.02 146.93,89.88 146.82,89.75 146.69,89.65 146.54,89.56 146.38,89.50 146.22,89.47 146.09,89.46 77.75,89.46 77.88,89.47 77.71,89.46 77.54,89.48 77.38,89.53 77.23,89.60 77.09,89.70 76.96,89.82 76.86,89.95 76.78,90.10 76.73,90.26 76.70,90.43 76.70,90.51 76.70,118.49 76.70,118.41 76.70,118.58 76.73,118.74 76.78,118.90 76.86,119.05 76.96,119.19 77.09,119.31 77.23,119.40 77.38,119.47 77.54,119.52 77.71,119.54 ' style='stroke-width: 0.75; fill: #D9EAF7;' />
+<text x='111.92' y='99.87' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='25.59px' lengthAdjust='spacingAndGlyphs'>Discovery</text>
+<text x='111.92' y='106.59' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='31.72px' lengthAdjust='spacingAndGlyphs'>GSE173252</text>
+<text x='111.92' y='113.31' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='57.97px' lengthAdjust='spacingAndGlyphs'>processed scRNA-seq</text>
+<polygon points='233.78,126.26 284.96,126.26 284.92,126.26 285.09,126.25 285.25,126.22 285.41,126.16 285.56,126.08 285.69,125.97 285.80,125.84 285.89,125.70 285.96,125.54 286.00,125.38 286.01,125.21 286.01,125.21 286.01,83.79 286.01,83.79 286.00,83.62 285.96,83.46 285.89,83.30 285.80,83.16 285.69,83.04 285.56,82.93 285.41,82.84 285.25,82.78 285.09,82.75 284.96,82.74 233.78,82.74 233.90,82.75 233.74,82.74 233.57,82.76 233.41,82.81 233.25,82.88 233.11,82.98 232.99,83.10 232.89,83.23 232.81,83.38 232.76,83.54 232.73,83.71 232.73,83.79 232.73,125.21 232.73,125.13 232.73,125.30 232.76,125.46 232.81,125.62 232.89,125.77 232.99,125.91 233.11,126.02 233.25,126.12 233.41,126.19 233.57,126.24 233.74,126.26 ' style='stroke-width: 0.75; fill: #9ECAE1;' />
+<text x='259.37' y='93.15' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='37.88px' lengthAdjust='spacingAndGlyphs'>Primary paired</text>
+<text x='259.37' y='99.87' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='24.61px' lengthAdjust='spacingAndGlyphs'>validation</text>
+<text x='259.37' y='106.59' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='38.52px' lengthAdjust='spacingAndGlyphs'>PRJNA607098</text>
+<text x='259.37' y='113.31' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='40.81px' lengthAdjust='spacingAndGlyphs'>12 sample units</text>
+<text x='259.37' y='120.03' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='34.33px' lengthAdjust='spacingAndGlyphs'>F7 vs non-F7</text>
+<polygon points='373.27,126.26 440.36,126.26 440.32,126.26 440.49,126.25 440.66,126.22 440.81,126.16 440.96,126.08 441.09,125.97 441.20,125.84 441.29,125.70 441.36,125.54 441.40,125.38 441.41,125.21 441.41,125.21 441.41,83.79 441.41,83.79 441.40,83.62 441.36,83.46 441.29,83.30 441.20,83.16 441.09,83.04 440.96,82.93 440.81,82.84 440.66,82.78 440.49,82.75 440.36,82.74 373.27,82.74 373.40,82.75 373.23,82.74 373.06,82.76 372.90,82.81 372.75,82.88 372.61,82.98 372.49,83.10 372.39,83.23 372.31,83.38 372.25,83.54 372.23,83.71 372.22,83.79 372.22,125.21 372.23,125.13 372.23,125.30 372.25,125.46 372.31,125.62 372.39,125.77 372.49,125.91 372.61,126.02 372.75,126.12 372.90,126.19 373.06,126.24 373.23,126.26 ' style='stroke-width: 0.75; fill: #9FD8CF;' />
+<text x='406.82' y='93.15' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='32.36px' lengthAdjust='spacingAndGlyphs'>Independent</text>
+<text x='406.82' y='99.87' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='31.72px' lengthAdjust='spacingAndGlyphs'>triangulation</text>
+<text x='406.82' y='106.59' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='31.72px' lengthAdjust='spacingAndGlyphs'>GSE130973</text>
+<text x='406.82' y='113.31' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='26.25px' lengthAdjust='spacingAndGlyphs'>5 subjects</text>
+<text x='406.82' y='120.03' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='56.72px' lengthAdjust='spacingAndGlyphs'>state vs other clusters</text>
+<polygon points='378.15,238.14 435.49,238.14 435.45,238.14 435.62,238.14 435.78,238.10 435.94,238.04 436.09,237.96 436.22,237.85 436.33,237.72 436.42,237.58 436.49,237.43 436.53,237.26 436.54,237.09 436.54,237.09 436.54,195.67 436.54,195.67 436.53,195.51 436.49,195.34 436.42,195.19 436.33,195.04 436.22,194.92 436.09,194.81 435.94,194.73 435.78,194.67 435.62,194.63 435.49,194.63 378.15,194.63 378.27,194.63 378.11,194.63 377.94,194.65 377.78,194.69 377.62,194.77 377.48,194.86 377.36,194.98 377.26,195.11 377.18,195.26 377.13,195.42 377.10,195.59 377.10,195.67 377.10,237.09 377.10,237.01 377.10,237.18 377.13,237.35 377.18,237.51 377.26,237.66 377.36,237.79 377.48,237.91 377.62,238.00 377.78,238.08 377.94,238.12 378.11,238.14 ' style='stroke-width: 0.75; fill: #F6C98F;' />
+<text x='406.82' y='205.03' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='29.47px' lengthAdjust='spacingAndGlyphs'>Mechanical</text>
+<text x='406.82' y='211.75' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='31.06px' lengthAdjust='spacingAndGlyphs'>perturbation</text>
+<text x='406.82' y='218.47' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='31.72px' lengthAdjust='spacingAndGlyphs'>GSE300230</text>
+<text x='406.82' y='225.19' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='27.22px' lengthAdjust='spacingAndGlyphs'>2 cell lines</text>
+<text x='406.82' y='231.91' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='46.97px' lengthAdjust='spacingAndGlyphs'>tension vs relaxed</text>
+<polygon points='220.03,234.78 298.71,234.78 298.67,234.78 298.84,234.78 299.00,234.74 299.16,234.68 299.31,234.60 299.44,234.49 299.55,234.37 299.64,234.22 299.71,234.07 299.75,233.90 299.76,233.73 299.76,233.73 299.76,199.03 299.76,199.03 299.75,198.87 299.71,198.70 299.64,198.55 299.55,198.40 299.44,198.28 299.31,198.17 299.16,198.09 299.00,198.03 298.84,197.99 298.71,197.98 220.03,197.98 220.15,197.99 219.99,197.99 219.82,198.01 219.66,198.05 219.50,198.13 219.36,198.22 219.24,198.34 219.14,198.47 219.06,198.62 219.01,198.78 218.98,198.95 218.98,199.03 218.98,233.73 218.98,233.65 218.98,233.82 219.01,233.99 219.06,234.15 219.14,234.30 219.24,234.43 219.36,234.55 219.50,234.64 219.66,234.72 219.82,234.76 219.99,234.78 ' style='stroke-width: 0.75; fill: #E7D8F4;' />
+<text x='259.37' y='208.39' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='31.41px' lengthAdjust='spacingAndGlyphs'>Regulatory /</text>
+<text x='259.37' y='215.11' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='41.72px' lengthAdjust='spacingAndGlyphs'>stiffness context</text>
+<text x='259.37' y='221.83' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='68.31px' lengthAdjust='spacingAndGlyphs'>GSE338388; GSE123100;</text>
+<text x='259.37' y='228.55' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='31.72px' lengthAdjust='spacingAndGlyphs'>GSE276045</text>
+<polygon points='63.02,238.14 160.82,238.14 160.78,238.14 160.95,238.14 161.11,238.10 161.27,238.04 161.42,237.96 161.55,237.85 161.66,237.72 161.75,237.58 161.81,237.43 161.85,237.26 161.87,237.09 161.87,237.09 161.87,195.67 161.87,195.67 161.85,195.51 161.81,195.34 161.75,195.19 161.66,195.04 161.55,194.92 161.42,194.81 161.27,194.73 161.11,194.67 160.95,194.63 160.82,194.63 63.02,194.63 63.15,194.63 62.98,194.63 62.81,194.65 62.65,194.69 62.50,194.77 62.36,194.86 62.24,194.98 62.14,195.11 62.06,195.26 62.00,195.42 61.98,195.59 61.97,195.67 61.97,237.09 61.98,237.01 61.98,237.18 62.00,237.35 62.06,237.51 62.14,237.66 62.24,237.79 62.36,237.91 62.50,238.00 62.65,238.08 62.81,238.12 62.98,238.14 ' style='stroke-width: 0.75; fill: #F2B6B0;' />
+<text x='111.92' y='205.03' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='23.30px' lengthAdjust='spacingAndGlyphs'>Bounded</text>
+<text x='111.92' y='211.75' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='23.31px' lengthAdjust='spacingAndGlyphs'>evidence</text>
+<text x='111.92' y='218.47' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='24.31px' lengthAdjust='spacingAndGlyphs'>synthesis</text>
+<text x='111.92' y='225.19' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='87.42px' lengthAdjust='spacingAndGlyphs'>Mechanotransduction-compatible;</text>
+<text x='111.92' y='231.91' text-anchor='middle' style='font-size: 5.83px; font-family: "Arial";' textLength='64.48px' lengthAdjust='spacingAndGlyphs'>not mechanically specific</text>
+<text x='7.97' y='29.64' style='font-size: 7.50px; font-family: "Arial";' textLength='212.22px' lengthAdjust='spacingAndGlyphs'>Each source retains its own biological or inferential denominator</text>
+<text x='7.97' y='18.40' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='167.50px' lengthAdjust='spacingAndGlyphs'>Evidence workflow and unit of analysis</text>
+</g>
+</g>
+</svg>

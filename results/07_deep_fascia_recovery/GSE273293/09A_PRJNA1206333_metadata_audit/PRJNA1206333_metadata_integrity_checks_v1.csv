@@ -1,0 +1,14 @@
+"check_id","passed"
+"exact_row_count_14",TRUE
+"unique_run_count_14",TRUE
+"unique_experiment_count_14",TRUE
+"unique_sra_sample_count_14",TRUE
+"unique_biosample_count_14",TRUE
+"unique_library_name_count_14",TRUE
+"exact_10_GMC_and_4_control",TRUE
+"all_expected_sample_names_present",TRUE
+"no_unexpected_sample_names",TRUE
+"all_human_taxon_9606",TRUE
+"all_paired_RNA_seq_transcriptomic",TRUE
+"all_raw_files_over_50_MB",TRUE
+"all_accessions_one_to_one",TRUE

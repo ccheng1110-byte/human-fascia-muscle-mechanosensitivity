@@ -1,0 +1,10 @@
+claim_id,current_claim_status,revised_claim,evidence_class,action
+C1,fascia-like state has mechanotransduction program,fascia-like fibroblast states are associated with a context-dependent ECM/integrin-actomyosin transcriptional program,CAUTION,retain but narrow
+C2,integrin module is a specific mechanotransduction signal,integrin/focal-adhesion support is directional but not uniform or specific across sources and candidates,CAUTION,replace wording
+C3,actomyosin module supports the mechanistic hypothesis,mechanical tension induces an actomyosin-associated transcriptional response in the analyzed cultured dermal fibroblast models,PARTIAL_DIRECTIONAL_PLAUSIBILITY,add bounded perturbation result
+C4,PIEZO2 is a validated mechanosensor mechanism,PIEZO2 evidence is unresolved and context-dependent,NOT_SUPPORTED,remove causal wording
+C5,age modifies the mechanosensitivity mechanism,age effect is not estimable because age and cell line are completely confounded,NOT_ESTIMABLE,remove age-mechanism claim
+C6,signal is cell-intrinsic,cell-intrinsic versus composition-associated explanation is not estimable from the gene-by-sample matrix,NOT_ESTIMABLE,add limitation
+C7,program is fascia-specific and pain-causal,fascia specificity and pain-relevant causality remain unestablished,UNSUPPORTED,remove or state as future test
+C8,actomyosin result is specific to mechanotransduction,actomyosin response remains compatible with a proliferation-associated transcriptional component,CAUTION,add cell-cycle competition caveat
+

@@ -1,0 +1,49 @@
+[paragraph 1] Supplementary figures and legends
+[paragraph 4] Supplementary Figure 1. Increased collagen expression and deposition in contracture GMC fascia bands.
+[paragraph 5] (A) Contracture deep fascia (around upper iliotibial band and tensor fasciae latae area) observed under arthroscopy, before (the left panel) and after (the right panel) the fasciotomy. (B) Relative expression level of COL1A1, COL3A1, COL6A1, COL12A1, and COL14A1 in control and GMC-associated fascia bands. P values were calculated by the unpaired two-tailed t-test. (C) Masson's trichrome stain of the control and GMC-associated fascia bands. GMC: gluteal muscle contracture; Con: control. *: p < 0.05, **: p < 0.01.
+[paragraph 7] Supplementary Figure 2. Quality control for single-cell RNA-sequencing analysis.
+[paragraph 8] (A) Violin plots illustrating the number of expressed genes per cell (nFeature_RNA), the number of unique molecular identifiers per cell (nCount_RNA), and the percentage of mitochondrial genes per cell (percent.mt_RNA) in scRNA-seq data. (B) Scatter plots showing the correlation between nCount_RNA and percent.mt_RNA (left) and the correlation between nCount_RNA and nFeature_RNA (right).
+[paragraph 10] Supplementary Figure 3. Integration of multiple samples using Harmony.
+[paragraph 11] (A) UMAP embedding of all cells, colored by individual subject sample, showing the integration across all samples. (B) UMAP embedding of cells from each sample individually, colored by individual subject sample, demonstrating the sample-specific distribution.
+[paragraph 13] Supplementary Figure 4. Relative proportion of each cell type in fascial tissues.
+[paragraph 14] Bar plots showing the relative proportion of each cell type in GMC fascia bands and control bands. GMC: gluteal muscle.
+[paragraph 16] Supplementary Figure 5. Functional enrichment analysis of upregulated genes across cell types.
+[paragraph 17] (A-F) Dot plots showing normalized enrichment scores for the top enriched Gene Ontology terms across different categories: Biological Process (BP), Cellular Component (CC), and Molecular Function (MF). The analyses highlight upregulated genes for each cell type, including Fibroblast (A), Smooth muscle cell (B), Macrophage (C), Endothelial cell (D), NK/T cell (E), and Mast cell (F).
+[paragraph 18] Supplementary Figure 6. Functional enrichment analysis of downregulated genes across cell types.
+[paragraph 19] (A-F) Dot plots displaying normalized enrichment scores for the top enriched Gene Ontology terms across different categories: Biological Process (BP), Cellular Component (CC), and Molecular Function (MF). The analyses highlight downregulated genes for each cell type, including Fibroblast (A), Smooth muscle cell (B), Macrophage (C), Endothelial cell (D), NK/T cell (E), and Mast cell (F).
+[paragraph 20] Supplementary Figure 7. Differentially expressed genes in annotated macrophage subcluster.
+[paragraph 21] Heatmap of top 10 differentially expressed genes and their expression levels (coded by colors) in macrophage subclusters. Columns denote cells; rows denote genes. Top color-bars denote sample source and cell type.
+[paragraph 23] Supplementary Figure 8. Relative proportion of macrophage subclusters.
+[paragraph 24] Bar plots showing the relative proportion of each macrophage subclusters in GMC fascia bands and control bands. GMC: gluteal muscle.
+[paragraph 28] Supplementary Figure 9. Functional enrichment analysis of macrophage subclusters.
+[paragraph 29] (A-G) Dotplot showing normalized enrichment scores for the top enriched GO terms (BP: biological process; CC: cellular component; MF: molecular function) pathways in each of macrophage subpopulations, including Monocyte MP (A), Proliferative MP (B), MoDCs MP (C), Proinflamn MP (D), LYVE1+ MP (E), SPP1+ MP (F), and ECM-like MP (G).
+[paragraph 30] Supplementary Figure 10. Cellular proportion of differentially polarized macrophage cells.
+[paragraph 31] Boxplot showing the comparison of the relative proportion of differentially polarized macrophage cells between the control and GMC-associated fascia bands.
+[paragraph 33] Supplementary Figure 11. Upregulation of SPP1+ MP marker genes following M2 polarization in vitro.
+[paragraph 34] THP-1 cells treated with phorbol 12-myristate 13-acetage (PMA, macrophage inducer) and the canonical M2 inducer IL4 showed increased expression of M2 marker gene ALOX15 and SPP1+ MP marker genes (SPP1, CSTB, FABP5, and TREM2). P values were calculated by the unpaired two-tailed t-test. GMC: gluteal muscle contracture; Con: control. *: p < 0.05, **: p < 0.01, ***: p < 0.001.
+[paragraph 36] Supplementary Figure 12. Gene expressive similarity of SPP1+ MP and SPP1+MAM+ macrophage.
+[paragraph 37] Heatmap showing the relative expression of known marker genes of previously reported SPP1+MAM+ across macrophage subclusters identified in deep fascia tissue from our study.
+[paragraph 39] Supplementary Figure 13. Relative expression of ECM related genes across macrophage subclusters.
+[paragraph 40] Heatmap showing the relative expression of selective ECM-related genes across macrophage subclusters.
+[paragraph 42] Supplementary Figure 14. Relative expression of TGFβ pathway related genes across cell types and macrophage subclusters.
+[paragraph 43] (A) Heatmap showing the relative expression of TGF-β1, TGF-β2, and TGF-βR II across cell types. (B) Heatmap showing the relative expression of TGF-β1, TGF-β2, and TGF-βR II across macrophage subclusters.
+[paragraph 45] Supplementary Figure 15. Enriched Gene Ontology terms along the development process pseudotime trajectory of macrophage subclusters. revealing the biological process.
+[paragraph 46] Heatmap showing differentially expressed genes (rows denote genes, p value < 0.05) identified along the pseudotime trajectory of macrophage subclusters. Four differentiation stages were identified by clustering similar functions, and correspondingly enriched Gene Ontology of biological process in each differentiation stage were listed to the left of the heatmap.
+[paragraph 48] Supplementary Figure 16. Relative expression of Hippo pathway relative genes across macrophage subclusters.
+[paragraph 49] Heatmap showing the relative expression of TEAD1, YAP1, and TAZ across macrophage subclusters.
+[paragraph 51] Supplementary Figure 17. Differentially expressed genes in annotated fibroblast subclusters.
+[paragraph 52] Heatmap of top 10 differentially expressed genes and their expression levels (coded by colors) in fibroblast subclusters. Columns denote cells; rows denote genes. Top color-bars denote sample source and cell type.
+[paragraph 54] Supplementary Figure 18. Correlation analysis across fibroblast subclusters.
+[paragraph 55] Heatmap revealing the Pearson co-efficiency between fibroblast subclusters of their top 1,000 differentially expressed genes.
+[paragraph 57] Supplementary Figure 19. Functional enrichment analysis of fibroblast subclusters.
+[paragraph 58] (A-E) Dotplot showing normalized enrichment scores for the top enriched GO terms (BP: biological process; CC: cellular component; MF: molecular function) pathways in each of fibroblast subclusters, including PI16+ FB (A), JUNB+ FB (B), COMP+ FB (C), CXCL14+ FB (D), and MFAP5+ FB (E).
+[paragraph 60] Supplementary Figure 20. Cellular proportion of fibroblast subclusters.
+[paragraph 61] (A) Bar plots showing the relative proportion of fibroblast subclusters in each GMC fascia band and control band. (B) Boxplot showing the comparison of the relative proportion of different fibroblast subclusters between the control and GMC-associated fascia bands. GMC: gluteal muscle contracture.
+[paragraph 63] Supplementary Figure 21. Relative expression of collagen genes in fibroblasts.
+[paragraph 64] Column plot showing the relative expression of various collagen genes in fibroblasts between the control and GMC-associated fascia bands. GMC: gluteal muscle contracture. *: p < 0.05, **: p < 0.01, ***: p < 0.001.
+[paragraph 66] Supplementary Figure 22. Differentially expressed non-collagen ECM components across cell types.
+[paragraph 67] (A-E) Heatmap showing the differentially expressed non-collagen ECM components, including ECM glycoproteins (A), Proteoglycans (B), ECM-affiliated proteins (C), ECM regulators (D), and Secreted factors (E), across various cell types between the control and GMC-associated fascia bands. GMC: gluteal muscle contracture.
+[paragraph 69] Supplementary Figure 23. Transmission electron micrograph of GMC deep fascia tissue.
+[paragraph 70] (A-C) Transmission electron micrograph showing the close proximity between FB and MP within the deep fascia tissue of GMC. (A) Close apposition between FB and MP. (B) Electron micrograph of a MP. (C) Electron micrograph of a FB. (D) Boxplot showing the distribution of distances between FB and MP within the deep fascia tissue. GMC: gluteal muscle contracture; FB: fibroblast; MP: macrophage.
+[paragraph 72] Supplementary Figure 24. The crosstalk between macrophages and fibroblasts.
+[paragraph 73] Predicted ligands from SPP1+ MP regulating target genes in fibroblasts. Edge thickness represents the inferred regulatory potential of each interaction. MP: macrophage; FB: fibroblast.

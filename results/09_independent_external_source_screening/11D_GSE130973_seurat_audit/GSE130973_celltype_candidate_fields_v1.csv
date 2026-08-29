@@ -1,0 +1,3 @@
+"field","class","cells","nonempty_values","unique_nonempty_values","sample_donor_candidate","celltype_candidate","example_values"
+"orig.ident","character",15457,15457,1,TRUE,TRUE,"10X_PBMC"
+"celltype.age","character",15457,15457,34,FALSE,TRUE,"6_YOUNG | 5_YOUNG | 0_YOUNG | 15_YOUNG | 13_YOUNG | 16_YOUNG | 1_YOUNG | 7_YOUNG"

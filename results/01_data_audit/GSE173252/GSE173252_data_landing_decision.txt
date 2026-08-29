@@ -1,0 +1,12 @@
+GSE173252 data-landing audit decision
+Audit date: 2026-08-23
+Samples audited: 9
+All 10X triplets structurally consistent: TRUE
+All deposited matrices classified as unfiltered droplet matrices: TRUE
+
+Interpretation:
+- Matrix columns are barcode partitions, not automatically accepted cells.
+- Do not use all deposited columns as biological cells or replicates.
+- Prefer the submitter-provided processed RDS to reproduce published filtering and annotations.
+- Preserve GSM/sample identity and use sample-level units for downstream inference.
+- Do not start CellChat, spatial analysis, or GWAS at this stage.

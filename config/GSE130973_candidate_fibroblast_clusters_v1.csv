@@ -1,0 +1,6 @@
+cluster_id,selection_rule,subjects_present,analysis_role,interpretation_boundary
+9,top_5_by_fibroblast_marker_mean,5,exploratory_fibroblast_state_candidate,"marker-defined candidate; not a confirmed paper label"
+1,top_5_by_fibroblast_marker_mean,5,exploratory_fibroblast_state_candidate,"marker-defined candidate; not a confirmed paper label"
+3,top_5_by_fibroblast_marker_mean,5,exploratory_fibroblast_state_candidate,"marker-defined candidate; not a confirmed paper label"
+2,top_5_by_fibroblast_marker_mean,5,exploratory_fibroblast_state_candidate,"marker-defined candidate; not a confirmed paper label"
+10,top_5_by_fibroblast_marker_mean,5,exploratory_fibroblast_state_candidate,"marker-defined candidate; not a confirmed paper label"

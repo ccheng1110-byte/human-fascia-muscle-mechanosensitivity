@@ -1,0 +1,2 @@
+"audit","status","reason"
+"cell_intrinsic_vs_composition","NOT_ESTIMABLE","The input is a gene-by-sample cultured-fibroblast matrix without cell-level composition measurements or cell-state proportions."

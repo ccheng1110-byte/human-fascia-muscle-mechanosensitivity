@@ -1,0 +1,6 @@
+"item","value"
+"independent_DD_source_PRJNA607098_present",TRUE
+"discovery_source_GSE173252_present",TRUE
+"webportal_has_sample_or_donor_column",FALSE
+"whole_H5AD_required_for_this_step",FALSE
+"files_over_50MB_downloaded_by_this_script",FALSE

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='518.74pt' height='297.64pt' viewBox='0 0 518.74 297.64'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MTguNzR8MC4wMHwyOTcuNjQ='>
+    <rect x='0.00' y='0.00' width='518.74' height='297.64' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHwyOTcuNjQ=)'>
+<rect x='0.00' y='0.00' width='518.74' height='297.64' style='stroke-width: 0.87; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNzIuMDR8NTEwLjc3fDUxLjgwfDI0OS42NA=='>
+    <rect x='72.04' y='51.80' width='438.73' height='197.84' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNzIuMDR8NTEwLjc3fDUxLjgwfDI0OS42NA==)'>
+<rect x='81.32' y='63.49' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #2B8C6B;' />
+<rect x='81.32' y='153.42' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6A83E;' />
+<rect x='165.69' y='63.49' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6A83E;' />
+<rect x='165.69' y='153.42' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #C95B5B;' />
+<rect x='250.06' y='63.49' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #2B8C6B;' />
+<rect x='250.06' y='153.42' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #C95B5B;' />
+<rect x='334.43' y='63.49' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6A83E;' />
+<rect x='334.43' y='153.42' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #C7CDD4;' />
+<rect x='418.80' y='63.49' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6A83E;' />
+<rect x='418.80' y='153.42' width='82.68' height='84.53' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #C7CDD4;' />
+<text x='122.66' y='100.97' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='64.28px' lengthAdjust='spacingAndGlyphs'>Core modules 2/2; both</text>
+<text x='122.66' y='107.97' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='44.69px' lengthAdjust='spacingAndGlyphs'>positive in 12/12</text>
+<text x='122.66' y='114.97' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='23.03px' lengthAdjust='spacingAndGlyphs'>samples</text>
+<text x='122.66' y='190.90' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='46.41px' lengthAdjust='spacingAndGlyphs'>10/15 supported;</text>
+<text x='122.66' y='197.90' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='32.31px' lengthAdjust='spacingAndGlyphs'>integrin 5/6;</text>
+<text x='122.66' y='204.89' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='41.59px' lengthAdjust='spacingAndGlyphs'>actomyosin 4/4</text>
+<text x='207.03' y='100.97' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='65.66px' lengthAdjust='spacingAndGlyphs'>Integrin and actomyosin</text>
+<text x='207.03' y='107.97' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='37.81px' lengthAdjust='spacingAndGlyphs'>positive in 5/5</text>
+<text x='207.03' y='114.97' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='22.69px' lengthAdjust='spacingAndGlyphs'>subjects</text>
+<text x='207.03' y='194.40' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='32.66px' lengthAdjust='spacingAndGlyphs'>Integrin 5/6;</text>
+<text x='207.03' y='201.40' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='41.59px' lengthAdjust='spacingAndGlyphs'>actomyosin 1/4</text>
+<text x='291.40' y='100.97' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='61.19px' lengthAdjust='spacingAndGlyphs'>Actomyosin significant</text>
+<text x='291.40' y='107.97' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='42.28px' lengthAdjust='spacingAndGlyphs'>in 2/2 cell lines;</text>
+<text x='291.40' y='114.97' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='37.12px' lengthAdjust='spacingAndGlyphs'>integrin in 1/2</text>
+<text x='291.40' y='190.90' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='55.00px' lengthAdjust='spacingAndGlyphs'>8/15 positive in both</text>
+<text x='291.40' y='197.90' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='59.12px' lengthAdjust='spacingAndGlyphs'>lines; 0/15 q&lt;=0.05 in</text>
+<text x='291.40' y='204.89' text-anchor='middle' style='font-size: 6.20px;fill: #FFFFFF; font-family: "Arial";' textLength='12.03px' lengthAdjust='spacingAndGlyphs'>both</text>
+<text x='375.78' y='97.47' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='42.62px' lengthAdjust='spacingAndGlyphs'>TEAD inhibition</text>
+<text x='375.78' y='104.47' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='52.59px' lengthAdjust='spacingAndGlyphs'>decreased integrin,</text>
+<text x='375.78' y='111.47' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='43.31px' lengthAdjust='spacingAndGlyphs'>actomyosin and</text>
+<text x='375.78' y='118.46' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='42.75px' lengthAdjust='spacingAndGlyphs'>Hippo/YAP/TAZ</text>
+<text x='375.78' y='194.40' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='55.34px' lengthAdjust='spacingAndGlyphs'>Candidate coverage</text>
+<text x='375.78' y='201.40' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='15.47px' lengthAdjust='spacingAndGlyphs'>15/15</text>
+<text x='460.15' y='100.97' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='56.27px' lengthAdjust='spacingAndGlyphs'>Actomyosin stiffness</text>
+<text x='460.15' y='107.97' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='50.53px' lengthAdjust='spacingAndGlyphs'>slope significant in</text>
+<text x='460.15' y='114.97' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='30.25px' lengthAdjust='spacingAndGlyphs'>2/2 models</text>
+<text x='460.15' y='194.40' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='55.34px' lengthAdjust='spacingAndGlyphs'>Candidate coverage</text>
+<text x='460.15' y='201.40' text-anchor='middle' style='font-size: 6.20px;fill: #17212B; font-family: "Arial";' textLength='15.47px' lengthAdjust='spacingAndGlyphs'>15/15</text>
+</g>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHwyOTcuNjQ=)'>
+<text x='122.66' y='46.04' text-anchor='middle' style='font-size: 8.20px; font-weight: bold;fill: #17212B; font-family: "Arial";' textLength='55.02px' lengthAdjust='spacingAndGlyphs'>PRJNA607098</text>
+<text x='207.03' y='46.04' text-anchor='middle' style='font-size: 8.20px; font-weight: bold;fill: #17212B; font-family: "Arial";' textLength='44.59px' lengthAdjust='spacingAndGlyphs'>GSE130973</text>
+<text x='291.40' y='46.04' text-anchor='middle' style='font-size: 8.20px; font-weight: bold;fill: #17212B; font-family: "Arial";' textLength='44.59px' lengthAdjust='spacingAndGlyphs'>GSE300230</text>
+<text x='375.78' y='46.04' text-anchor='middle' style='font-size: 8.20px; font-weight: bold;fill: #17212B; font-family: "Arial";' textLength='44.59px' lengthAdjust='spacingAndGlyphs'>GSE338388</text>
+<text x='460.15' y='46.04' text-anchor='middle' style='font-size: 8.20px; font-weight: bold;fill: #17212B; font-family: "Arial";' textLength='44.59px' lengthAdjust='spacingAndGlyphs'>GSE276045</text>
+<text x='68.00' y='198.61' text-anchor='end' style='font-size: 8.20px; font-weight: bold;fill: #17212B; font-family: "Arial";' textLength='60.03px' lengthAdjust='spacingAndGlyphs'>Candidate level</text>
+<text x='68.00' y='108.69' text-anchor='end' style='font-size: 8.20px; font-weight: bold;fill: #17212B; font-family: "Arial";' textLength='49.12px' lengthAdjust='spacingAndGlyphs'>Module level</text>
+<text x='65.79' y='270.59' style='font-size: 7.50px; font-weight: bold; font-family: "Arial";' textLength='53.77px' lengthAdjust='spacingAndGlyphs'>Evidence class</text>
+<rect x='125.59' y='264.65' width='18.14' height='6.52' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #2B8C6B;' />
+<rect x='228.57' y='264.65' width='18.14' height='6.52' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6A83E;' />
+<rect x='315.55' y='264.65' width='18.14' height='6.52' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #C95B5B;' />
+<rect x='440.10' y='264.65' width='18.14' height='6.52' style='stroke-width: 2.35; stroke: #FFFFFF; stroke-linecap: butt; stroke-linejoin: miter; fill: #C7CDD4;' />
+<text x='149.78' y='270.48' style='font-size: 7.20px; font-family: "Arial";' textLength='72.75px' lengthAdjust='spacingAndGlyphs'>Strong module support</text>
+<text x='252.75' y='270.48' style='font-size: 7.20px; font-family: "Arial";' textLength='56.75px' lengthAdjust='spacingAndGlyphs'>Partial/conditional</text>
+<text x='339.73' y='270.48' style='font-size: 7.20px; font-family: "Arial";' textLength='94.33px' lengthAdjust='spacingAndGlyphs'>Discordant/source-dependent</text>
+<text x='464.29' y='270.48' style='font-size: 7.20px; font-family: "Arial";' textLength='52.73px' lengthAdjust='spacingAndGlyphs'>Not confirmatory</text>
+<text x='72.04' y='29.47' style='font-size: 8.30px;fill: #425466; font-family: "Arial";' textLength='350.97px' lengthAdjust='spacingAndGlyphs'>Module support is more reproducible; candidate genes and specificity remain source dependent</text>
+<text x='72.04' y='16.92' style='font-size: 12.50px; font-weight: bold;fill: #17212B; font-family: "Arial";' textLength='400.80px' lengthAdjust='spacingAndGlyphs'>Evidence is more reproducible at module than individual-gene level</text>
+<text x='72.04' y='289.20' style='font-size: 7.00px;fill: #566573; font-family: "Arial";' textLength='364.38px' lengthAdjust='spacingAndGlyphs'>Colours summarize prespecified or explicitly bounded evidence classes; they are not a formal universal grading scale.</text>
+</g>
+</g>
+</svg>

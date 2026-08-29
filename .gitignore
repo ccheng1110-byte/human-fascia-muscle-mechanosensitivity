@@ -1,0 +1,16 @@
+.Rhistory
+.RData
+.Rproj.user/
+.runtime/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+data/extracted/
+*.rds
+*.rds.gz
+*.h5ad
+*.tar
+*.tmp
+*.part
+release/
